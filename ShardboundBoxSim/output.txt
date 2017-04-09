@@ -1,0 +1,3651 @@
+
+
+EPIC BOX
+(Neutral) Ghost Blade | (Blue) Astral Champion | (Neutral) Soul Shifter
+Chose Ghost Blade
+
+COMMON BOX
+(Blue) Halt Space | (Red) Blockade Forger | (Blue) Slow Reflexes
+Chose Halt Space
+
+COMMON BOX
+(Neutral) Mind Thief | (Green) Rock Crusher | (Neutral) Cannoneer
+Chose Mind Thief
+
+RARE BOX
+(Orange) Vigil Keeper | (Blue) Fate Linker | (Blue) Tease Fate
+Chose Vigil Keeper
+
+COMMON BOX
+(Purple) Devious Socialite | (Green) Groveguard | (Neutral) Rook
+Chose Devious Socialite
+
+RARE BOX
+(Yellow) Idol Of Eternity | (Blue) Fork Existence | (Yellow) Pack Mentality
+Chose Idol Of Eternity
+
+RARE BOX
+(Blue) Stallar Replicas | (Yellow) Roar: Burrow | (Neutral) Royal Magnate
+Chose Stallar Replicas
+
+RARE BOX
+(Purple) Cytoplast | (Neutral) Royal Magnate | (Red) Builder Platform
+Chose Cytoplast
+
+COMMON BOX
+(Blue) Slow Reflexes | (Yellow) Wolf Primal | (Neutral) Mind Thief
+Chose Slow Reflexes
+
+COMMON BOX
+(Yellow) Ancient Caller | (Purple) Bone Eater | (Orange) Ascension
+Chose Ancient Caller
+
+COMMON BOX
+(Red) Hound Glass Mech | (Orange) Vaporize Stone | (Neutral) Shockblade Smuggler
+Chose Hound Glass Mech
+
+RARE BOX
+(Neutral) Weavebreaker | (Orange) Vigil Keeper | (Orange) Ardent Inquisitor
+Chose Weavebreaker
+
+RARE BOX
+(Purple) Blood Betrayal | (Neutral) Plague Starter | (Neutral) Weavebreaker
+Chose Blood Betrayal
+
+EPIC BOX
+(Red) Raptor Class Mech | (Neutral) Arcanum Professor | (Neutral) Shadow Dancer
+Chose Raptor Class Mech
+
+RARE BOX
+(Red) Reloading Exosuit | (Neutral) Runebound Valet | (Green) Rampaging Boulder
+Chose Reloading Exosuit
+
+RARE BOX
+(Neutral) Blight Lasher | (Red) Reloading Exosuit | (Purple) Flesh Pile
+Chose Blight Lasher
+
+EPIC BOX
+(Neutral) Arcanum Professor | (Neutral) Shadow Dancer | (Neutral) Arcanum Professor
+Chose Arcanum Professor
+
+COMMON BOX
+(Green) Earthen Rage | (Neutral) Grand Defender | (Neutral) Racy Recruiter
+Chose Earthen Rage
+
+LEGENDARY BOX
+(Neutral) Puppeteer | (Neutral) Thundering Giant | (Purple) Pain Beast
+Chose Puppeteer
+
+RARE BOX
+(Green) Lokri Nightshade | (Neutral) Wrecking Crew | (Neutral) Spellboxer
+Chose Lokri Nightshade
+
+RARE BOX
+(Neutral) Devoted Curate | (Purple) Dark Traveler | (Yellow) Alpha Packmaster
+Chose Devoted Curate
+
+COMMON BOX
+(Purple) Thrall Mutation | (Red) Gravwell Exosuit | (Neutral) Hungry Gnarbek
+Chose Thrall Mutation
+
+RARE BOX
+(Neutral) Devoted Curate | (Green) Precise Detonation | (Neutral) Pawnbroker
+Chose Devoted Curate
+
+RARE BOX
+(Neutral) Wrecking Crew | (Neutral) Royal Magnate | (Orange) Holy Armory
+Chose Wrecking Crew
+
+COMMON BOX
+(Orange) Lightspear Justical | (Neutral) Frenzied Direhide | (Purple) Exsanguinate
+Chose Lightspear Justical
+
+COMMON BOX
+(Neutral) Shanker | (Yellow) Beloved Trainer | (Yellow) Tribe Warrior
+Chose Shanker
+
+COMMON BOX
+(Neutral) Wraith | (Neutral) Rook | (Blue) Halt Space
+Chose Wraith
+
+RARE BOX
+(Red) Requisitions Order | (Red) Personal Portal Device | (Blue) Baffling Presence
+Chose Requisitions Order
+
+RARE BOX
+(Neutral) Royal Magnate | (Red) Storm Class Mech | (Neutral) Iron Heart
+Chose Royal Magnate
+
+RARE BOX
+(Blue) Rift Trickster | (Red) Efficiency Expert | (Neutral) Imposter
+Chose Rift Trickster
+
+RARE BOX
+(Orange) Echo Of Light | (Purple) Corpse Explosion | (Blue) Gravity Surge
+Chose Echo Of Light
+
+COMMON BOX
+(Purple) Bone Eater | (Green) Groveguard | (Blue) Timesmith
+Chose Bone Eater
+
+RARE BOX
+(Neutral) Ephemera | (Neutral) Evergreen | (Green) Rampaging Boulder
+Chose Ephemera
+
+RARE BOX
+(Neutral) Plague Starter | (Red) Outlaw Class Mech | (Red) Builder Platform
+Chose Plague Starter
+
+RARE BOX
+(Red) Outlaw Class Mech | (Blue) Gravity Surge | (Orange) Holy Armory
+Chose Outlaw Class Mech
+
+COMMON BOX
+(Orange) Life Lash | (Purple) Dark Practitioner | (Neutral) Hungry Gnarbek
+Chose Life Lash
+
+COMMON BOX
+(Purple) Bone Eater | (Neutral) Shade | (Red) Gravwell Exosuit
+Chose Bone Eater
+
+COMMON BOX
+(Purple) Prestari Cultist | (Neutral) Wraith | (Neutral) Racy Recruiter
+Chose Prestari Cultist
+
+RARE BOX
+(Neutral) Blade of Valor | (Blue) Accelerator Pylon | (Neutral) Pawnbroker
+Chose Blade of Valor
+
+EPIC BOX
+(Orange) Pillar of Judgement | (Red) Summon Nanobots | (Orange) Bless The Meek
+Chose Pillar of Judgement
+
+RARE BOX
+(Red) Storm Class Mech | (Yellow) Idol Of Eternity | (Neutral) Blessed Archer
+Chose Storm Class Mech
+
+RARE BOX
+(Yellow) Roar: Burrow | (Neutral) Back Alley Bruiser | (Blue) Tease Fate
+Chose Roar: Burrow
+
+COMMON BOX
+(Neutral) Dancer | (Blue) Distorter | (Purple) Bone Eater
+Chose Dancer
+
+COMMON BOX
+(Blue) Temporal Technician | (Red) Static Discharge | (Green) Earthen Rage
+Chose Temporal Technician
+
+RARE BOX
+(Purple) Cytoplast | (Neutral) Runebound Valet | (Purple) Blood Betrayal
+Chose Cytoplast
+
+COMMON BOX
+(Orange) Lightspear Justical | (Purple) Progenitor | (Red) Gravwell Exosuit
+Chose Lightspear Justical
+
+COMMON BOX
+(Purple) Bone Eater | (Yellow) Hunting Scout | (Orange) Luminator Initiate
+Chose Hunting Scout
+
+RARE BOX
+(Neutral) Blessed Archer | (Neutral) Back Alley Bruiser | (Green) Stonecall Seedling
+Chose Blessed Archer
+
+COMMON BOX
+(Neutral) Mind Thief | (Neutral) Arcanum Steward | (Red) Blockade Forger
+Chose Mind Thief
+
+COMMON BOX
+(Blue) Temporal Drifter | (Blue) Flux | (Neutral) Rook
+Chose Temporal Drifter
+
+COMMON BOX
+(Red) Plating Specialist | (Orange) Radiant Weapon | (Blue) Chronoslap
+Chose Plating Specialist
+
+EPIC BOX
+(Neutral) Rabble Rouser | (Neutral) Spirit Binder | (Neutral) Ghost Blade
+Chose Rabble Rouser
+
+COMMON BOX
+(Neutral) Wraith | (Blue) Chronoslap | (Neutral) Mind Thief
+Chose Wraith
+
+COMMON BOX
+(Green) Rock Crusher | (Blue) Temporal Drifter | (Purple) Devious Socialite
+Chose Rock Crusher
+
+RARE BOX
+(Red) Reloading Exosuit | (Neutral) Weavebreaker | (Red) Outlaw Class Mech
+Chose Reloading Exosuit
+
+COMMON BOX
+(Blue) Temporal Technician | (Orange) Vaporize Stone | (Green) Rock Crusher
+Chose Temporal Technician
+
+COMMON BOX
+(Neutral) Lightdancer | (Red) Upgrade Depot | (Green) Rock Crusher
+Chose Lightdancer
+
+COMMON BOX
+(Neutral) Shanker | (Blue) Halt Space | (Yellow) Hunting Scout
+Chose Shanker
+
+EPIC BOX
+(Purple) Plague Spore | (Neutral) Veil Shrieker | (Neutral) Shifting Nightmare
+Chose Plague Spore
+
+LEGENDARY BOX
+(Neutral) Hadrien, The White Rook | (Neutral) Ghost Archer | (Orange) High Luminator Cerys
+Chose Hadrien, The White Rook
+
+COMMON BOX
+(Red) Upgrade Depot | (Green) Plainsguard | (Red) Medframe Tech
+Chose Upgrade Depot
+
+RARE BOX
+(Neutral) Evergreen | (Neutral) Shield of Durant | (Purple) Dark Traveler
+Chose Evergreen
+
+RARE BOX
+(Neutral) Devoted Curate | (Purple) Blood Betrayal | (Orange) Evangelist
+Chose Blood Betrayal
+
+COMMON BOX
+(Orange) Radiant Weapon | (Red) Hound Glass Mech | (Blue) Warp Specialist
+Chose Radiant Weapon
+
+COMMON BOX
+(Green) Concord Artisan | (Purple) Bone Eater | (Neutral) Bloodbond Fighter
+Chose Concord Artisan
+
+COMMON BOX
+(Orange) Lightspear Justical | (Red) Static Discharge | (Green) Blightspore Seedling
+Chose Static Discharge
+
+RARE BOX
+(Neutral) Blade of Valor | (Yellow) Pack Mentality | (Orange) Evangelist
+Chose Blade of Valor
+
+RARE BOX
+(Purple) Night of the Living Dead | (Neutral) Wrecking Crew | (Neutral) Blight Lasher
+Chose Night of the Living Dead
+
+RARE BOX
+(Yellow) To Me! | (Yellow) Pack Mentality | (Neutral) Martyr
+Chose To Me!
+
+EPIC BOX
+(Neutral) Osprey Captain | (Orange) Bless The Meek | (Blue) Astral Champion
+Chose Osprey Captain
+
+RARE BOX
+(Orange) Vigil Keeper | (Blue) Accelerator Pylon | (Neutral) Imposter
+Chose Vigil Keeper
+
+RARE BOX
+(Purple) Corpse Explosion | (Green) Snapdragon Cadet | (Green) Stripe Mine
+Chose Corpse Explosion
+
+RARE BOX
+(Green) Snapdragon Cadet | (Red) Outlaw Class Mech | (Neutral) Iron Heart
+Chose Snapdragon Cadet
+
+EPIC BOX
+(Green) Voice of the Squall | (Neutral) Ghost Blade | (Blue) Alternate Reality
+Chose Voice of the Squall
+
+EPIC BOX
+(Blue) Astral Champion | (Neutral) Rabble Rouser | (Neutral) Census Master
+Chose Astral Champion
+
+COMMON BOX
+(Orange) Vaporize Stone | (Neutral) Arcanum Steward | (Neutral) Bloodbond Fighter
+Chose Vaporize Stone
+
+COMMON BOX
+(Red) Medframe Tech | (Neutral) Rook | (Purple) Prestari Cultist
+Chose Medframe Tech
+
+COMMON BOX
+(Green) Groveguard | (Blue) Distorter | (Red) Hound Glass Mech
+Chose Groveguard
+
+RARE BOX
+(Neutral) Martyr | (Orange) Vigil Keeper | (Neutral) Duskblade
+Chose Martyr
+
+COMMON BOX
+(Yellow) Tribe Warrior | (Neutral) Racy Recruiter | (Neutral) Rook
+Chose Tribe Warrior
+
+RARE BOX
+(Purple) Cytoplast | (Neutral) Martyr | (Yellow) Menagerie
+Chose Martyr
+
+COMMON BOX
+(Purple) Bone Eater | (Neutral) Quartermaster | (Green) Cultivator
+Chose Quartermaster
+
+RARE BOX
+(Green) Stonecall Seedling | (Neutral) Blessed Archer | (Neutral) Shield of Durant
+Chose Stonecall Seedling
+
+RARE BOX
+(Green) Lokri Nightshade | (Red) Outlaw Class Mech | (Neutral) Duskblade
+Chose Lokri Nightshade
+
+RARE BOX
+(Blue) Stallar Replicas | (Red) Storm Class Mech | (Purple) Night of the Living Dead
+Chose Stallar Replicas
+
+COMMON BOX
+(Blue) Chronoslap | (Neutral) Arcanum Steward | (Green) Blightspore Seedling
+Chose Chronoslap
+
+COMMON BOX
+(Neutral) Buccaneer | (Purple) Dark Practitioner | (Purple) Devious Socialite
+Chose Buccaneer
+
+RARE BOX
+(Red) Personal Portal Device | (Neutral) Pawnbroker | (Orange) Holy Armory
+Chose Personal Portal Device
+
+COMMON BOX
+(Purple) Bone Eater | (Green) Cultivator | (Green) Concord Artisan
+Chose Cultivator
+
+RARE BOX
+(Red) Armory Gunner | (Neutral) Blight Lasher | (Green) Stonecall Seedling
+Chose Armory Gunner
+
+COMMON BOX
+(Green) Concord Artisan | (Purple) Progenitor | (Green) Zephyr Monk
+Chose Concord Artisan
+
+COMMON BOX
+(Neutral) Shanker | (Green) Cultivator | (Blue) Distorter
+Chose Cultivator
+
+RARE BOX
+(Yellow) Idol Of Eternity | (Blue) Tease Fate | (Neutral) Shield of Durant
+Chose Idol Of Eternity
+
+RARE BOX
+(Orange) Vigil Keeper | (Green) Disciple of Almast | (Blue) Gravity Surge
+Chose Disciple of Almast
+
+RARE BOX
+(Green) Rampaging Boulder | (Yellow) Idol Of Eternity | (Neutral) Duskblade
+Chose Rampaging Boulder
+
+EPIC BOX
+(Neutral) Spirit Binder | (Blue) Astral Champion | (Neutral) Phantom Betrayer
+Chose Spirit Binder
+
+COMMON BOX
+(Red) Upgrade Depot | (Red) Hound Glass Mech | (Neutral) Bloodbond Fighter
+Chose Upgrade Depot
+
+COMMON BOX
+(Blue) Chronoslap | (Neutral) Buccaneer | (Orange) Chaotic Surge
+Chose Chronoslap
+
+COMMON BOX
+(Blue) Flux | (Neutral) Rook | (Neutral) Hungry Gnarbek
+Chose Flux
+
+EPIC BOX
+(Neutral) Phalanx Leader | (Neutral) Veil Shrieker | (Neutral) Census Master
+Chose Phalanx Leader
+
+RARE BOX
+(Neutral) Weavebreaker | (Neutral) Duskblade | (Green) Snapdragon Cadet
+Chose Weavebreaker
+
+RARE BOX
+(Red) Personal Portal Device | (Green) Tempest Hound | (Yellow) Alpha Packmaster
+Chose Personal Portal Device
+
+COMMON BOX
+(Blue) Distorter | (Blue) Warp Specialist | (Yellow) Hunting Scout
+Chose Distorter
+
+COMMON BOX
+(Green) Stone Prison | (Neutral) Royal Scout | (Red) Static Discharge
+Chose Stone Prison
+
+COMMON BOX
+(Yellow) Pack Awakener | (Neutral) Buccaneer | (Red) Medframe Tech
+Chose Pack Awakener
+
+COMMON BOX
+(Yellow) Beloved Trainer | (Neutral) Mind Thief | (Green) Zephyr Monk
+Chose Beloved Trainer
+
+COMMON BOX
+(Orange) Luminator Initiate | (Orange) Life Lash | (Red) Static Discharge
+Chose Luminator Initiate
+
+RARE BOX
+(Yellow) Ghost Primal | (Blue) Tease Fate | (Red) Storm Class Mech
+Chose Ghost Primal
+
+COMMON BOX
+(Yellow) Tribe Warrior | (Green) Plainsguard | (Purple) Night Horror
+Chose Tribe Warrior
+
+RARE BOX
+(Neutral) Pawnbroker | (Neutral) Blade of Valor | (Red) Personal Portal Device
+Chose Pawnbroker
+
+COMMON BOX
+(Green) Seedsinger | (Neutral) Buccaneer | (Blue) Distorter
+Chose Seedsinger
+
+COMMON BOX
+(Orange) Luminator Initiate | (Green) Earthen Rage | (Neutral) Shanker
+Chose Luminator Initiate
+
+COMMON BOX
+(Blue) Warp Specialist | (Red) Medframe Tech | (Yellow) Wolf Primal
+Chose Warp Specialist
+
+LEGENDARY BOX
+(Blue) Prism Dancer | (Neutral) Commander Barzic | (Yellow) Moya Primal
+Chose Prism Dancer
+
+LEGENDARY BOX
+(Neutral) Astral Phoenix | (Neutral) Disciple of the Bow | (Purple) Pain Beast
+Chose Astral Phoenix
+
+COMMON BOX
+(Red) Upgrade Depot | (Red) Salvage Parts | (Orange) Ascension
+Chose Salvage Parts
+
+COMMON BOX
+(Orange) Radiant Weapon | (Neutral) Quartermaster | (Neutral) Mind Thief
+Chose Radiant Weapon
+
+COMMON BOX
+(Neutral) Cannoneer | (Neutral) Shockblade Smuggler | (Yellow) Primal Vim
+Chose Cannoneer
+
+RARE BOX
+(Green) Precise Detonation | (Green) Lokri Nightshade | (Neutral) Duskblade
+Chose Precise Detonation
+
+COMMON BOX
+(Red) Static Discharge | (Green) Seedsinger | (Neutral) Snarling Mastiff
+Chose Static Discharge
+
+COMMON BOX
+(Orange) Skyborne Crusader | (Green) Seedsinger | (Orange) Ascension
+Chose Skyborne Crusader
+
+RARE BOX
+(Red) Outlaw Class Mech | (Red) Requisitions Order | (Yellow) Winged Primal
+Chose Outlaw Class Mech
+
+RARE BOX
+(Neutral) Devoted Curate | (Purple) Cytoplast | (Blue) Baffling Presence
+Chose Baffling Presence
+
+RARE BOX
+(Neutral) Blessed Archer | (Orange) Zealot | (Red) Efficiency Expert
+Chose Blessed Archer
+
+RARE BOX
+(Yellow) Menagerie | (Blue) Tease Fate | (Orange) Zealot
+Chose Menagerie
+
+RARE BOX
+(Orange) Holy Armory | (Neutral) Blessed Archer | (Orange) Vigil Keeper
+Chose Holy Armory
+
+COMMON BOX
+(Blue) Halt Space | (Neutral) Lightdancer | (Red) Gravwell Exosuit
+Chose Halt Space
+
+RARE BOX
+(Neutral) Pawnbroker | (Neutral) Shield of Durant | (Green) Disciple of Almast
+Chose Pawnbroker
+
+COMMON BOX
+(Purple) Progenitor | (Neutral) Shockblade Smuggler | (Red) Insured Mech
+Chose Progenitor
+
+COMMON BOX
+(Purple) Prestari Cultist | (Neutral) Snarling Mastiff | (Green) Zephyr Monk
+Chose Prestari Cultist
+
+EPIC BOX
+(Neutral) Shadow Dancer | (Blue) Alternate Reality | (Blue) Astral Champion
+Chose Shadow Dancer
+
+RARE BOX
+(Orange) Vigil Keeper | (Red) Requisitions Order | (Red) Reloading Exosuit
+Chose Requisitions Order
+
+RARE BOX
+(Red) Reloading Exosuit | (Yellow) Menagerie | (Purple) Dark Traveler
+Chose Menagerie
+
+COMMON BOX
+(Neutral) Grand Defender | (Blue) Distorter | (Red) Medframe Tech
+Chose Grand Defender
+
+RARE BOX
+(Red) Personal Portal Device | (Blue) Stallar Replicas | (Orange) Zealot
+Chose Zealot
+
+RARE BOX
+(Neutral) Martyr | (Red) Builder Platform | (Neutral) Ephemera
+Chose Builder Platform
+
+COMMON BOX
+(Neutral) Venerated Champion | (Neutral) Racy Recruiter | (Neutral) Frenzied Direhide
+Chose Venerated Champion
+
+COMMON BOX
+(Neutral) Shade | (Green) Concord Artisan | (Orange) Reckoning
+Chose Shade
+
+RARE BOX
+(Neutral) Weavebreaker | (Orange) Vigil Keeper | (Blue) Tease Fate
+Chose Tease Fate
+
+COMMON BOX
+(Neutral) Wraith | (Neutral) Quartermaster | (Neutral) Rook
+Chose Quartermaster
+
+RARE BOX
+(Green) Stonecall Seedling | (Purple) Perfected Specimen | (Purple) Dark Traveler
+Chose Stonecall Seedling
+
+COMMON BOX
+(Red) Gravwell Exosuit | (Neutral) Royal Scout | (Orange) Luminator Initiate
+Chose Gravwell Exosuit
+
+RARE BOX
+(Purple) Cytoplast | (Purple) Soul Bounty | (Red) Efficiency Expert
+Chose Soul Bounty
+
+RARE BOX
+(Green) Disciple of Almast | (Orange) Desperate Prayer | (Purple) Blood Betrayal
+Chose Disciple of Almast
+
+RARE BOX
+(Blue) Accelerator Pylon | (Neutral) Blessed Archer | (Neutral) Evergreen
+Chose Accelerator Pylon
+
+RARE BOX
+(Neutral) Blight Lasher | (Orange) Holy Armory | (Neutral) Royal Magnate
+Chose Blight Lasher
+
+COMMON BOX
+(Neutral) Shade | (Orange) Chaotic Surge | (Red) Salvage Parts
+Chose Shade
+
+COMMON BOX
+(Purple) Exsanguinate | (Green) Groveguard | (Neutral) Grand Defender
+Chose Exsanguinate
+
+RARE BOX
+(Yellow) Pack Mentality | (Neutral) Blessed Archer | (Orange) Evangelist
+Chose Pack Mentality
+
+RARE BOX
+(Orange) Echo Of Light | (Orange) Vigil Keeper | (Yellow) Pack Mentality
+Chose Echo Of Light
+
+EPIC BOX
+(Red) Summon Nanobots | (Neutral) Census Master | (Purple) Grave Lotus
+Chose Summon Nanobots
+
+RARE BOX
+(Red) Requisitions Order | (Red) Armory Gunner | (Blue) Tease Fate
+Chose Armory Gunner
+
+COMMON BOX
+(Yellow) Pack Awakener | (Green) Concord Artisan | (Blue) Halt Space
+Chose Pack Awakener
+
+EPIC BOX
+(Purple) Grave Lotus | (Blue) Alternate Reality | (Neutral) Rabble Rouser
+Chose Grave Lotus
+
+RARE BOX
+(Blue) Fork Existence | (Neutral) Iron Heart | (Orange) Zealot
+Chose Fork Existence
+
+COMMON BOX
+(Blue) Distorter | (Green) Cultivator | (Neutral) Shockblade Smuggler
+Chose Distorter
+
+RARE BOX
+(Green) Grove Tender | (Neutral) Martyr | (Yellow) To Me!
+Chose Grove Tender
+
+COMMON BOX
+(Purple) Night Horror | (Blue) Halt Space | (Green) Groveguard
+Chose Night Horror
+
+RARE BOX
+(Orange) Ardent Inquisitor | (Purple) Night of the Living Dead | (Green) Disciple of Almast
+Chose Ardent Inquisitor
+
+RARE BOX
+(Orange) Ardent Inquisitor | (Purple) Night of the Living Dead | (Neutral) Back Alley Bruiser
+Chose Ardent Inquisitor
+
+COMMON BOX
+(Yellow) Idol of Reckoning | (Yellow) Wolf Primal | (Red) Medframe Tech
+Chose Idol of Reckoning
+
+RARE BOX
+(Purple) Flesh Pile | (Neutral) Runebound Valet | (Neutral) Weavebreaker
+Chose Flesh Pile
+
+COMMON BOX
+(Purple) Night Horror | (Red) Hound Glass Mech | (Red) Plating Specialist
+Chose Night Horror
+
+RARE BOX
+(Purple) Corpse Explosion | (Green) Grove Tender | (Red) Efficiency Expert
+Chose Corpse Explosion
+
+EPIC BOX
+(Yellow) Grand Wyrm Primal | (Neutral) Frenzied Rageclaw | (Neutral) Osprey Captain
+Chose Grand Wyrm Primal
+
+COMMON BOX
+(Red) Plating Specialist | (Purple) Night Horror | (Green) Seedsinger
+Chose Plating Specialist
+
+COMMON BOX
+(Orange) Burn The Wings | (Yellow) Tribe Warrior | (Neutral) Shanker
+Chose Burn The Wings
+
+RARE BOX
+(Purple) Night of the Living Dead | (Green) Precise Detonation | (Blue) Gravity Surge
+Chose Night of the Living Dead
+
+COMMON BOX
+(Green) Seedsinger | (Red) Plating Specialist | (Red) Hound Glass Mech
+Chose Seedsinger
+
+RARE BOX
+(Purple) Corpse Explosion | (Neutral) Plague Starter | (Yellow) Pack Mentality
+Chose Plague Starter
+
+COMMON BOX
+(Blue) Warp Specialist | (Green) Stone Prison | (Green) Cultivator
+Chose Warp Specialist
+
+RARE BOX
+(Orange) Evangelist | (Orange) Echo Of Light | (Green) Rampaging Boulder
+Chose Evangelist
+
+COMMON BOX
+(Yellow) Roar: Earburst | (Orange) Ascension | (Green) Groveguard
+Chose Roar: Earburst
+
+COMMON BOX
+(Neutral) Shanker | (Purple) Thrall Mutation | (Red) Strike Pack
+Chose Thrall Mutation
+
+COMMON BOX
+(Yellow) Tribe Warrior | (Red) Hound Glass Mech | (Yellow) Ancient Caller
+Chose Hound Glass Mech
+
+COMMON BOX
+(Neutral) Mind Thief | (Orange) Life Lash | (Purple) Prestari Cultist
+Chose Life Lash
+
+RARE BOX
+(Red) Storm Class Mech | (Neutral) Wrecking Crew | (Neutral) Wrecking Crew
+Chose Storm Class Mech
+
+RARE BOX
+(Neutral) Duskblade | (Green) Stonecall Seedling | (Blue) Fork Existence
+Chose Duskblade
+
+COMMON BOX
+(Blue) Slow Reflexes | (Red) Upgrade Depot | (Neutral) Arcanum Steward
+Chose Slow Reflexes
+
+COMMON BOX
+(Red) Hound Glass Mech | (Neutral) Cannoneer | (Orange) Skyborne Crusader
+Chose Cannoneer
+
+COMMON BOX
+(Blue) Spark of Genius | (Red) Insured Mech | (Yellow) Hunting Scout
+Chose Spark of Genius
+
+COMMON BOX
+(Neutral) Buccaneer | (Red) Upgrade Depot | (Purple) Dark Practitioner
+Chose Buccaneer
+
+COMMON BOX
+(Purple) Devious Socialite | (Green) Cultivator | (Green) Rock Crusher
+Chose Devious Socialite
+
+COMMON BOX
+(Green) Seedsinger | (Neutral) Arcanum Steward | (Green) Rock Crusher
+Chose Arcanum Steward
+
+RARE BOX
+(Green) Rampaging Boulder | (Neutral) Imposter | (Neutral) Evergreen
+Chose Rampaging Boulder
+
+RARE BOX
+(Neutral) Wrecking Crew | (Red) Personal Portal Device | (Yellow) Menagerie
+Chose Wrecking Crew
+
+COMMON BOX
+(Yellow) Ancient Caller | (Neutral) Mind Thief | (Green) Groveguard
+Chose Ancient Caller
+
+COMMON BOX
+(Purple) Thrall Mutation | (Green) Blightspore Seedling | (Red) Static Discharge
+Chose Blightspore Seedling
+
+RARE BOX
+(Blue) Rift Trickster | (Yellow) Winged Primal | (Green) Precise Detonation
+Chose Rift Trickster
+
+COMMON BOX
+(Blue) Temporal Drifter | (Red) Upgrade Depot | (Orange) Skyborne Crusader
+Chose Temporal Drifter
+
+EPIC BOX
+(Neutral) Frenzied Rageclaw | (Neutral) Osprey Captain | (Neutral) Phantom Betrayer
+Chose Frenzied Rageclaw
+
+RARE BOX
+(Purple) Soul Bounty | (Neutral) Trauma Guard | (Blue) Rift Trickster
+Chose Soul Bounty
+
+COMMON BOX
+(Yellow) Tribe Warrior | (Green) Stone Prison | (Blue) Slow Reflexes
+Chose Stone Prison
+
+RARE BOX
+(Neutral) Martyr | (Neutral) Shield of Durant | (Green) Stonecall Seedling
+Chose Shield of Durant
+
+COMMON BOX
+(Green) Plainsguard | (Blue) Temporal Drifter | (Neutral) Bloodbond Fighter
+Chose Plainsguard
+
+COMMON BOX
+(Red) Gravwell Exosuit | (Blue) Temporal Technician | (Red) Medframe Tech
+Chose Gravwell Exosuit
+
+RARE BOX
+(Red) Requisitions Order | (Blue) Gravity Surge | (Neutral) Martyr
+Chose Gravity Surge
+
+RARE BOX
+(Purple) Blood Betrayal | (Orange) Holy Armory | (Orange) Vigil Keeper
+Chose Holy Armory
+
+COMMON BOX
+(Neutral) Bloodbond Fighter | (Neutral) Shanker | (Blue) Halt Space
+Chose Bloodbond Fighter
+
+COMMON BOX
+(Neutral) Cannoneer | (Purple) Swarm Spore | (Red) Static Discharge
+Chose Swarm Spore
+
+RARE BOX
+(Blue) Fork Existence | (Neutral) Evergreen | (Neutral) Pawnbroker
+Chose Fork Existence
+
+COMMON BOX
+(Neutral) Cannoneer | (Neutral) Venerated Champion | (Green) Cultivator
+Chose Venerated Champion
+
+COMMON BOX
+(Neutral) Cannoneer | (Neutral) Quartermaster | (Neutral) Shade
+I have all these cards!
+Dusted a common for 10. I have 10 dust.
+
+RARE BOX
+(Yellow) Pack Mentality | (Orange) Echo Of Light | (Neutral) Devoted Curate
+Chose Pack Mentality
+
+COMMON BOX
+(Neutral) Wraith | (Neutral) Snarling Mastiff | (Yellow) Tribe Warrior
+Chose Snarling Mastiff
+
+RARE BOX
+(Green) Stripe Mine | (Yellow) Pack Mentality | (Green) Lokri Nightshade
+Chose Stripe Mine
+
+RARE BOX
+(Orange) Desperate Prayer | (Orange) Evangelist | (Neutral) Evergreen
+Chose Desperate Prayer
+
+RARE BOX
+(Purple) Corpse Explosion | (Green) Tempest Hound | (Orange) Evangelist
+Chose Tempest Hound
+
+COMMON BOX
+(Green) Stone Prison | (Yellow) Pack Awakener | (Blue) Chronoslap
+I have all these cards!
+Dusted a common for 10. I have 20 dust.
+
+RARE BOX
+(Yellow) Winged Primal | (Orange) Holy Armory | (Neutral) Ephemera
+Chose Winged Primal
+
+RARE BOX
+(Neutral) Iron Heart | (Blue) Fate Linker | (Neutral) Duskblade
+Chose Iron Heart
+
+RARE BOX
+(Neutral) Royal Magnate | (Neutral) Ephemera | (Yellow) Pack Mentality
+Chose Royal Magnate
+
+COMMON BOX
+(Neutral) Rook | (Green) Stone Prison | (Neutral) Lightdancer
+Chose Rook
+
+RARE BOX
+(Neutral) Blade of Valor | (Green) Stripe Mine | (Neutral) Back Alley Bruiser
+Chose Stripe Mine
+
+RARE BOX
+(Neutral) Blade of Valor | (Orange) Desperate Prayer | (Green) Stonecall Seedling
+Chose Desperate Prayer
+
+RARE BOX
+(Orange) Zealot | (Purple) Flesh Pile | (Yellow) Roar: Burrow
+Chose Zealot
+
+COMMON BOX
+(Red) Medframe Tech | (Yellow) Hunting Scout | (Neutral) Quartermaster
+Chose Medframe Tech
+
+COMMON BOX
+(Blue) Temporal Technician | (Purple) Bone Eater | (Green) Blightspore Seedling
+Chose Blightspore Seedling
+
+EPIC BOX
+(Neutral) Osprey Captain | (Neutral) Weave Eater | (Neutral) Osprey Captain
+Chose Osprey Captain
+
+COMMON BOX
+(Blue) Warp Specialist | (Blue) Slow Reflexes | (Red) Plating Specialist
+I have all these cards!
+Dusted a common for 10. I have 30 dust.
+
+RARE BOX
+(Orange) Evangelist | (Neutral) Runebound Valet | (Green) Precise Detonation
+Chose Evangelist
+
+EPIC BOX
+(Neutral) Osprey Captain | (Neutral) Phantom Betrayer | (Neutral) Tinker Master
+Chose Phantom Betrayer
+
+COMMON BOX
+(Orange) Life Lash | (Green) Seedsinger | (Yellow) Wolf Primal
+Chose Wolf Primal
+
+EPIC BOX
+(Neutral) Master of Faces | (Neutral) Census Master | (Yellow) Raised By Primals
+Chose Master of Faces
+
+RARE BOX
+(Orange) Evangelist | (Neutral) Iron Heart | (Neutral) Duskblade
+Chose Iron Heart
+
+RARE BOX
+(Purple) Soul Bounty | (Purple) Cytoplast | (Neutral) Royal Magnate
+I have all these cards!
+Dusted a rare for 25. I have 55 dust.
+
+RARE BOX
+(Purple) Night of the Living Dead | (Purple) Perfected Specimen | (Purple) Dark Traveler
+Chose Perfected Specimen
+
+RARE BOX
+(Green) Grove Tender | (Yellow) Winged Primal | (Neutral) Wrecking Crew
+Chose Grove Tender
+
+RARE BOX
+(Neutral) Pawnbroker | (Yellow) Menagerie | (Red) Outlaw Class Mech
+I have all these cards!
+Dusted a rare for 25. I have 80 dust.
+
+RARE BOX
+(Orange) Zealot | (Neutral) Shield of Durant | (Blue) Accelerator Pylon
+Chose Shield of Durant
+
+LEGENDARY BOX
+(Neutral) Commander Barzic | (Neutral) Hadrien, The White Rook | (Neutral) Disciple of the Bow
+Chose Commander Barzic
+
+RARE BOX
+(Yellow) Idol Of Eternity | (Green) Rampaging Boulder | (Orange) Vigil Keeper
+I have all these cards!
+Dusted a rare for 25. I have 105 dust.
+
+RARE BOX
+(Neutral) Royal Magnate | (Neutral) Duskblade | (Yellow) Pack Mentality
+Chose Duskblade
+
+COMMON BOX
+(Blue) Flux | (Yellow) Pack Awakener | (Yellow) Roar: Earburst
+Chose Flux
+
+LEGENDARY BOX
+(Neutral) Crystal Queen | (Neutral) Raven's Messenger | (Neutral) High Shepherd Katell
+Chose Crystal Queen
+
+COMMON BOX
+(Yellow) Hunting Scout | (Yellow) Eagle Primal | (Green) Rock Crusher
+Chose Hunting Scout
+
+EPIC BOX
+(Neutral) Ghost Blade | (Blue) Astral Champion | (Neutral) Weave Eater
+Chose Ghost Blade
+
+RARE BOX
+(Orange) Vigil Keeper | (Neutral) Martyr | (Neutral) Devoted Curate
+I have all these cards!
+Dusted a rare for 25. I have 130 dust.
+
+EPIC BOX
+(Neutral) Spirit Binder | (Neutral) Shadow Dancer | (Red) Summon Nanobots
+Chose Spirit Binder
+
+COMMON BOX
+(Neutral) Arcanum Steward | (Blue) Chronoslap | (Red) Insured Mech
+Chose Arcanum Steward
+
+RARE BOX
+(Orange) Zealot | (Green) Stripe Mine | (Neutral) Martyr
+I have all these cards!
+Dusted a rare for 25. I have 155 dust.
+
+COMMON BOX
+(Neutral) Shanker | (Orange) Ascension | (Red) Static Discharge
+Chose Ascension
+
+COMMON BOX
+(Neutral) Bloodbond Fighter | (Red) Salvage Parts | (Green) Zephyr Monk
+Chose Bloodbond Fighter
+
+RARE BOX
+(Green) Stonecall Seedling | (Neutral) Pawnbroker | (Red) Storm Class Mech
+I have all these cards!
+Dusted a rare for 25. I have 180 dust.
+
+COMMON BOX
+(Orange) Lightspear Justical | (Neutral) Bloodbond Fighter | (Neutral) Snarling Mastiff
+Chose Snarling Mastiff
+
+COMMON BOX
+(Green) Blightspore Seedling | (Neutral) Dancer | (Blue) Temporal Drifter
+Chose Dancer
+
+LEGENDARY BOX
+(Neutral) Officer Showoff | (Neutral) Thundering Giant | (Red) Creation Specialist
+Chose Officer Showoff
+
+RARE BOX
+(Blue) Fate Linker | (Purple) Blood Betrayal | (Neutral) Spellboxer
+Chose Fate Linker
+
+COMMON BOX
+(Green) Concord Artisan | (Neutral) Grand Defender | (Neutral) Quartermaster
+Chose Grand Defender
+
+COMMON BOX
+(Orange) Radiant Weapon | (Neutral) Buccaneer | (Neutral) Quartermaster
+I have all these cards!
+Dusted a common for 10. I have 190 dust.
+
+COMMON BOX
+(Yellow) Idol of Reckoning | (Red) Upgrade Depot | (Red) Blockade Forger
+Chose Idol of Reckoning
+
+EPIC BOX
+(Neutral) Phantom Betrayer | (Neutral) Tinker Master | (Neutral) Soul Shifter
+Chose Phantom Betrayer
+
+COMMON BOX
+(Neutral) Quartermaster | (Purple) Exsanguinate | (Neutral) Grand Defender
+Chose Exsanguinate
+
+COMMON BOX
+(Yellow) Hunting Scout | (Green) Blightspore Seedling | (Yellow) Ancient Caller
+I have all these cards!
+Dusted a common for 10. I have 200 dust.
+
+RARE BOX
+(Blue) Accelerator Pylon | (Neutral) Imposter | (Green) Stripe Mine
+Chose Accelerator Pylon
+
+RARE BOX
+(Blue) Rift Trickster | (Neutral) Imposter | (Purple) Blood Betrayal
+Chose Imposter
+
+EPIC BOX
+(Neutral) Ghost Blade | (Green) Voice of the Squall | (Orange) Pillar of Judgement
+Chose Voice of the Squall
+
+RARE BOX
+(Neutral) Shield of Durant | (Orange) Zealot | (Neutral) Back Alley Bruiser
+Chose Back Alley Bruiser
+
+RARE BOX
+(Purple) Flesh Pile | (Neutral) Wrecking Crew | (Neutral) Martyr
+Chose Flesh Pile
+
+RARE BOX
+(Green) Stonecall Seedling | (Green) Rampaging Boulder | (Yellow) Roar: Burrow
+Chose Roar: Burrow
+
+RARE BOX
+(Neutral) Royal Magnate | (Green) Disciple of Almast | (Neutral) Shield of Durant
+I have all these cards!
+Dusted a rare for 25. I have 225 dust.
+
+COMMON BOX
+(Green) Blightspore Seedling | (Neutral) Bloodbond Fighter | (Neutral) Frenzied Direhide
+Chose Frenzied Direhide
+
+LEGENDARY BOX
+(Orange) High Luminator Cerys | (Orange) Become Dust | (Neutral) Disciple of the Bow
+Chose High Luminator Cerys
+
+RARE BOX
+(Red) Reloading Exosuit | (Yellow) Pack Mentality | (Neutral) Imposter
+Chose Imposter
+
+RARE BOX
+(Orange) Desperate Prayer | (Neutral) Iron Heart | (Blue) Rift Trickster
+I have all these cards!
+Dusted a rare for 25. I have 250 dust.
+
+COMMON BOX
+(Blue) Temporal Drifter | (Purple) Grim Inspiration | (Blue) Distorter
+Chose Grim Inspiration
+
+COMMON BOX
+(Green) Stone Prison | (Blue) Spark of Genius | (Neutral) Buccaneer
+Chose Spark of Genius
+
+RARE BOX
+(Yellow) Alpha Packmaster | (Neutral) Weavebreaker | (Green) Stonecall Seedling
+Chose Alpha Packmaster
+
+EPIC BOX
+(Neutral) Tinker Master | (Neutral) Frenzied Rageclaw | (Neutral) Soul Shifter
+Chose Tinker Master
+
+RARE BOX
+(Purple) Flesh Pile | (Neutral) Ephemera | (Orange) Vigil Keeper
+Chose Ephemera
+
+RARE BOX
+(Green) Tempest Hound | (Green) Stonecall Seedling | (Blue) Rift Trickster
+Chose Tempest Hound
+
+RARE BOX
+(Red) Armory Gunner | (Purple) Soul Bounty | (Neutral) Blade of Valor
+I have all these cards!
+Dusted a rare for 25. I have 275 dust.
+
+RARE BOX
+(Neutral) Martyr | (Green) Lokri Nightshade | (Purple) Flesh Pile
+I have all these cards!
+Dusted a rare for 25. I have 300 dust.
+
+RARE BOX
+(Purple) Corpse Explosion | (Purple) Blood Betrayal | (Yellow) To Me!
+Chose To Me!
+
+RARE BOX
+(Blue) Fate Linker | (Yellow) To Me! | (Neutral) Blight Lasher
+Chose Fate Linker
+
+COMMON BOX
+(Purple) Devious Socialite | (Blue) Halt Space | (Orange) Skyborne Crusader
+Chose Skyborne Crusader
+
+RARE BOX
+(Purple) Flesh Pile | (Neutral) Ephemera | (Green) Precise Detonation
+Chose Precise Detonation
+
+EPIC BOX
+(Neutral) Veil Shrieker | (Purple) Plague Spore | (Neutral) Skywatch Dragoon
+Chose Veil Shrieker
+
+RARE BOX
+(Blue) Rift Trickster | (Yellow) To Me! | (Purple) Dark Traveler
+Chose Dark Traveler
+
+RARE BOX
+(Neutral) Blessed Archer | (Red) Personal Portal Device | (Neutral) Pawnbroker
+I have all these cards!
+Dusted a rare for 25. I have 325 dust.
+
+COMMON BOX
+(Blue) Flux | (Green) Groveguard | (Red) Gravwell Exosuit
+Chose Groveguard
+
+COMMON BOX
+(Red) Gravwell Exosuit | (Neutral) Venerated Champion | (Neutral) Racy Recruiter
+Chose Racy Recruiter
+
+COMMON BOX
+(Green) Plainsguard | (Neutral) Quartermaster | (Red) Upgrade Depot
+Chose Plainsguard
+
+RARE BOX
+(Blue) Tease Fate | (Yellow) Ghost Primal | (Neutral) Plague Starter
+Chose Tease Fate
+
+COMMON BOX
+(Red) Gravwell Exosuit | (Red) Salvage Parts | (Yellow) Idol of Reckoning
+Chose Salvage Parts
+
+RARE BOX
+(Neutral) Blight Lasher | (Purple) Night of the Living Dead | (Neutral) Imposter
+I have all these cards!
+Dusted a rare for 25. I have 350 dust.
+
+RARE BOX
+(Neutral) Royal Magnate | (Yellow) Ghost Primal | (Green) Snapdragon Cadet
+Chose Ghost Primal
+
+RARE BOX
+(Neutral) Spellboxer | (Red) Storm Class Mech | (Neutral) Weavebreaker
+Chose Spellboxer
+
+COMMON BOX
+(Red) Strike Pack | (Orange) Reckoning | (Neutral) Quartermaster
+Chose Strike Pack
+
+RARE BOX
+(Orange) Evangelist | (Yellow) Ghost Primal | (Neutral) Iron Heart
+I have all these cards!
+Dusted a rare for 25. I have 375 dust.
+
+COMMON BOX
+(Purple) Dark Practitioner | (Neutral) Lightdancer | (Red) Blockade Forger
+Chose Dark Practitioner
+
+RARE BOX
+(Yellow) Winged Primal | (Neutral) Martyr | (Orange) Evangelist
+Chose Winged Primal
+
+RARE BOX
+(Neutral) Plague Starter | (Purple) Perfected Specimen | (Purple) Cytoplast
+Chose Perfected Specimen
+
+COMMON BOX
+(Green) Plainsguard | (Purple) Thrall Mutation | (Orange) Reckoning
+Chose Reckoning
+
+COMMON BOX
+(Yellow) Beloved Trainer | (Neutral) Hungry Gnarbek | (Green) Rock Crusher
+Chose Beloved Trainer
+
+COMMON BOX
+(Yellow) Idol of Reckoning | (Green) Groveguard | (Green) Earthen Rage
+Chose Earthen Rage
+
+RARE BOX
+(Purple) Dark Traveler | (Blue) Stallar Replicas | (Neutral) Imposter
+Chose Dark Traveler
+
+RARE BOX
+(Orange) Holy Armory | (Purple) Night of the Living Dead | (Red) Storm Class Mech
+I have all these cards!
+Dusted a rare for 25. I have 400 dust.
+
+COMMON BOX
+(Neutral) Lightdancer | (Blue) Temporal Drifter | (Red) Static Discharge
+Chose Lightdancer
+
+RARE BOX
+(Green) Disciple of Almast | (Purple) Night of the Living Dead | (Yellow) Pack Mentality
+I have all these cards!
+Dusted a rare for 25. I have 425 dust.
+
+LEGENDARY BOX
+(Neutral) Raven's Messenger | (Neutral) High Shepherd Katell | (Neutral) Disciple of the Bow
+Chose Raven's Messenger
+
+LEGENDARY BOX
+(Neutral) The Kraken | (Neutral) High Shepherd Katell | (Green) The Lifespark
+Chose The Kraken
+
+RARE BOX
+(Neutral) Spellboxer | (Red) Efficiency Expert | (Green) Tempest Hound
+Chose Spellboxer
+
+RARE BOX
+(Blue) Accelerator Pylon | (Yellow) Alpha Packmaster | (Neutral) Royal Magnate
+Chose Alpha Packmaster
+
+RARE BOX
+(Orange) Desperate Prayer | (Neutral) Spellboxer | (Neutral) Wrecking Crew
+I have all these cards!
+Dusted a rare for 25. I have 450 dust.
+
+COMMON BOX
+(Neutral) Arcanum Steward | (Neutral) Frenzied Direhide | (Blue) Flux
+Chose Frenzied Direhide
+
+RARE BOX
+(Yellow) Pack Mentality | (Neutral) Wrecking Crew | (Green) Snapdragon Cadet
+Chose Snapdragon Cadet
+
+COMMON BOX
+(Yellow) Idol of Reckoning | (Red) Insured Mech | (Neutral) Snarling Mastiff
+Chose Insured Mech
+
+COMMON BOX
+(Orange) Life Lash | (Green) Seedsinger | (Yellow) Hunting Scout
+I have all these cards!
+Dusted a common for 10. I have 460 dust.
+
+RARE BOX
+(Yellow) Alpha Packmaster | (Green) Disciple of Almast | (Blue) Fate Linker
+I have all these cards!
+Dusted a rare for 25. I have 485 dust.
+
+RARE BOX
+(Purple) Night of the Living Dead | (Green) Rampaging Boulder | (Red) Reloading Exosuit
+I have all these cards!
+Dusted a rare for 25. I have 510 dust.
+
+RARE BOX
+(Neutral) Back Alley Bruiser | (Purple) Corpse Explosion | (Blue) Fork Existence
+Chose Back Alley Bruiser
+
+COMMON BOX
+(Green) Plainsguard | (Neutral) Royal Scout | (Green) Seedsinger
+Chose Royal Scout
+
+COMMON BOX
+(Green) Rock Crusher | (Blue) Flux | (Neutral) Shanker
+Chose Rock Crusher
+
+COMMON BOX
+(Green) Stone Prison | (Blue) Temporal Technician | (Orange) Radiant Weapon
+I have all these cards!
+Dusted a common for 10. I have 520 dust.
+
+RARE BOX
+(Green) Rampaging Boulder | (Purple) Corpse Explosion | (Blue) Stallar Replicas
+I have all these cards!
+Dusted a rare for 25. I have 545 dust.
+
+COMMON BOX
+(Neutral) Mind Thief | (Neutral) Lightdancer | (Purple) Bone Eater
+I have all these cards!
+Dusted a common for 10. I have 555 dust.
+
+EPIC BOX
+(Purple) Plague Spore | (Neutral) Census Master | (Orange) Bless The Meek
+Chose Plague Spore
+
+COMMON BOX
+(Neutral) Frenzied Direhide | (Blue) Chronoslap | (Blue) Slow Reflexes
+I have all these cards!
+Dusted a common for 10. I have 565 dust.
+
+RARE BOX
+(Blue) Accelerator Pylon | (Yellow) Idol Of Eternity | (Purple) Perfected Specimen
+I have all these cards!
+Dusted a rare for 25. I have 590 dust.
+
+COMMON BOX
+(Red) Insured Mech | (Neutral) Snarling Mastiff | (Neutral) Shade
+Chose Insured Mech
+
+RARE BOX
+(Yellow) Menagerie | (Orange) Ardent Inquisitor | (Blue) Fork Existence
+I have all these cards!
+Dusted a rare for 25. I have 615 dust.
+
+COMMON BOX
+(Green) Groveguard | (Green) Seedsinger | (Orange) Skyborne Crusader
+I have all these cards!
+Dusted a common for 10. I have 625 dust.
+
+COMMON BOX
+(Neutral) Rook | (Yellow) Eagle Primal | (Green) Groveguard
+Chose Rook
+
+LEGENDARY BOX
+(Purple) Pain Beast | (Orange) High Luminator Cerys | (Purple) Pain Beast
+Chose Pain Beast
+
+RARE BOX
+(Purple) Soul Bounty | (Green) Rampaging Boulder | (Yellow) Pack Mentality
+I have all these cards!
+Dusted a rare for 25. I have 650 dust.
+
+COMMON BOX
+(Orange) Radiant Weapon | (Purple) Dark Practitioner | (Orange) Lightspear Justical
+Chose Dark Practitioner
+
+COMMON BOX
+(Purple) Swarm Spore | (Blue) Flux | (Neutral) Lightdancer
+Chose Swarm Spore
+
+EPIC BOX
+(Green) Voice of the Squall | (Yellow) Grand Wyrm Primal | (Blue) Astral Champion
+Chose Grand Wyrm Primal
+
+COMMON BOX
+(Blue) Spark of Genius | (Red) Blockade Forger | (Neutral) Shanker
+Chose Blockade Forger
+
+COMMON BOX
+(Neutral) Cannoneer | (Red) Hound Glass Mech | (Orange) Vaporize Stone
+Chose Vaporize Stone
+
+RARE BOX
+(Yellow) Roar: Burrow | (Purple) Night of the Living Dead | (Yellow) Ghost Primal
+I have all these cards!
+Dusted a rare for 25. I have 675 dust.
+
+COMMON BOX
+(Neutral) Buccaneer | (Blue) Spark of Genius | (Red) Plating Specialist
+I have all these cards!
+Dusted a common for 10. I have 685 dust.
+
+EPIC BOX
+(Red) Raptor Class Mech | (Yellow) Grand Wyrm Primal | (Red) Summon Nanobots
+Chose Raptor Class Mech
+
+COMMON BOX
+(Yellow) Eagle Primal | (Orange) Vaporize Stone | (Neutral) Arcanum Steward
+Chose Eagle Primal
+
+COMMON BOX
+(Neutral) Buccaneer | (Blue) Temporal Drifter | (Blue) Timesmith
+Chose Timesmith
+
+COMMON BOX
+(Green) Zephyr Monk | (Orange) Chaotic Surge | (Blue) Temporal Technician
+Chose Zephyr Monk
+
+RARE BOX
+(Yellow) Menagerie | (Neutral) Evergreen | (Neutral) Blight Lasher
+Chose Evergreen
+
+COMMON BOX
+(Green) Concord Artisan | (Red) Medframe Tech | (Purple) Bone Eater
+I have all these cards!
+Dusted a common for 10. I have 695 dust.
+
+COMMON BOX
+(Red) Static Discharge | (Red) Insured Mech | (Neutral) Shockblade Smuggler
+Chose Shockblade Smuggler
+
+RARE BOX
+(Red) Armory Gunner | (Blue) Tease Fate | (Purple) Corpse Explosion
+I have all these cards!
+Dusted a rare for 25. I have 720 dust.
+
+EPIC BOX
+(Neutral) Phantom Betrayer | (Purple) Plague Spore | (Neutral) Osprey Captain
+I have all these cards!
+Dusted an epic for 100. I have 820 dust.
+
+EPIC BOX
+(Neutral) Pile O' Tomes | (Neutral) Ghost Blade | (Neutral) Phalanx Leader
+Chose Pile O' Tomes
+
+RARE BOX
+(Red) Builder Platform | (Red) Outlaw Class Mech | (Yellow) Menagerie
+Chose Builder Platform
+
+RARE BOX
+(Orange) Zealot | (Orange) Harbinger | (Yellow) Pack Mentality
+Chose Harbinger
+
+EPIC BOX
+(Neutral) Bellowing Giant | (Neutral) Rabble Rouser | (Purple) Grave Lotus
+Chose Bellowing Giant
+
+COMMON BOX
+(Yellow) Hunting Scout | (Green) Stone Prison | (Orange) Luminator Initiate
+I have all these cards!
+Dusted a common for 10. I have 830 dust.
+
+RARE BOX
+(Blue) Accelerator Pylon | (Purple) Soul Bounty | (Neutral) Iron Heart
+I have all these cards!
+Dusted a rare for 25. I have 855 dust.
+
+RARE BOX
+(Neutral) Weavebreaker | (Yellow) Roar: Burrow | (Red) Outlaw Class Mech
+I have all these cards!
+Dusted a rare for 25. I have 880 dust.
+
+RARE BOX
+(Purple) Flesh Pile | (Green) Stripe Mine | (Orange) Holy Armory
+I have all these cards!
+Dusted a rare for 25. I have 905 dust.
+
+COMMON BOX
+(Purple) Bone Eater | (Blue) Halt Space | (Red) Gravwell Exosuit
+I have all these cards!
+Dusted a common for 10. I have 915 dust.
+
+RARE BOX
+(Neutral) Ephemera | (Blue) Baffling Presence | (Neutral) Back Alley Bruiser
+Chose Baffling Presence
+
+RARE BOX
+(Green) Stripe Mine | (Yellow) Menagerie | (Neutral) Wrecking Crew
+I have all these cards!
+Dusted a rare for 25. I have 940 dust.
+
+COMMON BOX
+(Blue) Halt Space | (Neutral) Lightdancer | (Red) Blockade Forger
+Chose Blockade Forger
+
+RARE BOX
+(Blue) Fork Existence | (Purple) Perfected Specimen | (Orange) Zealot
+I have all these cards!
+Dusted a rare for 25. I have 965 dust.
+
+COMMON BOX
+(Yellow) Ancient Caller | (Neutral) Racy Recruiter | (Red) Gravwell Exosuit
+Chose Racy Recruiter
+
+RARE BOX
+(Neutral) Blessed Archer | (Blue) Tease Fate | (Neutral) Wrecking Crew
+I have all these cards!
+Dusted a rare for 25. I have 990 dust.
+
+COMMON BOX
+(Neutral) Arcanum Steward | (Orange) Chaotic Surge | (Orange) Chaotic Surge
+Chose Chaotic Surge
+
+COMMON BOX
+(Purple) Bone Eater | (Purple) Prestari Cultist | (Neutral) Shade
+I have all these cards!
+Dusted a common for 10. I have 1000 dust.
+
+RARE BOX
+(Purple) Blood Betrayal | (Green) Lokri Nightshade | (Purple) Cytoplast
+I have all these cards!
+Dusted a rare for 25. I have 1025 dust.
+
+COMMON BOX
+(Orange) Burn The Wings | (Neutral) Hungry Gnarbek | (Green) Cultivator
+Chose Burn The Wings
+
+RARE BOX
+(Green) Precise Detonation | (Red) Outlaw Class Mech | (Orange) Vigil Keeper
+I have all these cards!
+Dusted a rare for 25. I have 1050 dust.
+
+EPIC BOX
+(Neutral) Rabble Rouser | (Neutral) Pile O' Tomes | (Neutral) Master of Faces
+Chose Rabble Rouser
+
+COMMON BOX
+(Neutral) Shockblade Smuggler | (Green) Earthen Rage | (Neutral) Shade
+Chose Shockblade Smuggler
+
+COMMON BOX
+(Yellow) Wolf Primal | (Neutral) Lightdancer | (Neutral) Venerated Champion
+Chose Wolf Primal
+
+RARE BOX
+(Yellow) Alpha Packmaster | (Orange) Holy Armory | (Red) Reloading Exosuit
+I have all these cards!
+Dusted a rare for 25. I have 1075 dust.
+
+RARE BOX
+(Neutral) Blight Lasher | (Orange) Vigil Keeper | (Purple) Flesh Pile
+I have all these cards!
+Dusted a rare for 25. I have 1100 dust.
+
+COMMON BOX
+(Purple) Exsanguinate | (Neutral) Arcanum Steward | (Red) Gravwell Exosuit
+I have all these cards!
+Dusted a common for 10. I have 1110 dust.
+
+RARE BOX
+(Neutral) Evergreen | (Green) Disciple of Almast | (Orange) Vigil Keeper
+I have all these cards!
+Dusted a rare for 25. I have 1135 dust.
+
+RARE BOX
+(Orange) Zealot | (Neutral) Blessed Archer | (Orange) Echo Of Light
+I have all these cards!
+Dusted a rare for 25. I have 1160 dust.
+
+COMMON BOX
+(Orange) Chaotic Surge | (Neutral) Racy Recruiter | (Green) Cultivator
+Chose Chaotic Surge
+
+COMMON BOX
+(Neutral) Lightdancer | (Orange) Reckoning | (Yellow) Tribe Warrior
+Chose Reckoning
+
+RARE BOX
+(Blue) Baffling Presence | (Neutral) Pawnbroker | (Blue) Rift Trickster
+I have all these cards!
+Dusted a rare for 25. I have 1185 dust.
+
+COMMON BOX
+(Orange) Chaotic Surge | (Green) Concord Artisan | (Red) Plating Specialist
+I have all these cards!
+Dusted a common for 10. I have 1195 dust.
+
+COMMON BOX
+(Green) Groveguard | (Red) Static Discharge | (Purple) Exsanguinate
+I have all these cards!
+Dusted a common for 10. I have 1205 dust.
+Crafted legendary The Prodigy. I have 5 now.
+
+RARE BOX
+(Red) Storm Class Mech | (Yellow) Alpha Packmaster | (Neutral) Shield of Durant
+I have all these cards!
+Dusted a rare for 25. I have 30 dust.
+
+RARE BOX
+(Purple) Cytoplast | (Neutral) Royal Magnate | (Blue) Fate Linker
+I have all these cards!
+Dusted a rare for 25. I have 55 dust.
+
+COMMON BOX
+(Neutral) Grand Defender | (Green) Stone Prison | (Orange) Vaporize Stone
+I have all these cards!
+Dusted a common for 10. I have 65 dust.
+
+RARE BOX
+(Green) Disciple of Almast | (Orange) Ardent Inquisitor | (Blue) Baffling Presence
+I have all these cards!
+Dusted a rare for 25. I have 90 dust.
+
+RARE BOX
+(Blue) Fate Linker | (Orange) Zealot | (Neutral) Trauma Guard
+Chose Trauma Guard
+
+COMMON BOX
+(Blue) Slow Reflexes | (Yellow) Beloved Trainer | (Neutral) Quartermaster
+I have all these cards!
+Dusted a common for 10. I have 100 dust.
+
+COMMON BOX
+(Neutral) Shockblade Smuggler | (Orange) Ascension | (Blue) Halt Space
+Chose Ascension
+
+RARE BOX
+(Red) Reloading Exosuit | (Orange) Ardent Inquisitor | (Green) Rampaging Boulder
+I have all these cards!
+Dusted a rare for 25. I have 125 dust.
+
+EPIC BOX
+(Neutral) Bellowing Giant | (Green) Voice of the Squall | (Neutral) Master of Faces
+Chose Bellowing Giant
+
+COMMON BOX
+(Orange) Lightspear Justical | (Purple) Bone Eater | (Purple) Dark Practitioner
+I have all these cards!
+Dusted a common for 10. I have 135 dust.
+
+COMMON BOX
+(Neutral) Shanker | (Neutral) Quartermaster | (Neutral) Racy Recruiter
+I have all these cards!
+Dusted a common for 10. I have 145 dust.
+
+COMMON BOX
+(Red) Blockade Forger | (Neutral) Shockblade Smuggler | (Purple) Prestari Cultist
+I have all these cards!
+Dusted a common for 10. I have 155 dust.
+
+COMMON BOX
+(Blue) Warp Specialist | (Neutral) Lightdancer | (Neutral) Grand Defender
+I have all these cards!
+Dusted a common for 10. I have 165 dust.
+
+RARE BOX
+(Neutral) Iron Heart | (Orange) Harbinger | (Blue) Rift Trickster
+Chose Harbinger
+
+RARE BOX
+(Orange) Holy Armory | (Purple) Soul Bounty | (Orange) Holy Armory
+I have all these cards!
+Dusted a rare for 25. I have 190 dust.
+
+RARE BOX
+(Orange) Vigil Keeper | (Neutral) Blight Lasher | (Green) Stonecall Seedling
+I have all these cards!
+Dusted a rare for 25. I have 215 dust.
+
+COMMON BOX
+(Red) Plating Specialist | (Red) Blockade Forger | (Yellow) Primal Vim
+Chose Primal Vim
+
+RARE BOX
+(Purple) Blood Betrayal | (Orange) Evangelist | (Red) Requisitions Order
+I have all these cards!
+Dusted a rare for 25. I have 240 dust.
+
+RARE BOX
+(Neutral) Iron Heart | (Neutral) Blade of Valor | (Blue) Fate Linker
+I have all these cards!
+Dusted a rare for 25. I have 265 dust.
+
+RARE BOX
+(Purple) Night of the Living Dead | (Blue) Tease Fate | (Blue) Gravity Surge
+Chose Gravity Surge
+
+RARE BOX
+(Blue) Gravity Surge | (Orange) Zealot | (Yellow) Roar: Burrow
+I have all these cards!
+Dusted a rare for 25. I have 290 dust.
+
+RARE BOX
+(Yellow) Roar: Burrow | (Purple) Flesh Pile | (Blue) Gravity Surge
+I have all these cards!
+Dusted a rare for 25. I have 315 dust.
+
+COMMON BOX
+(Yellow) Ancient Caller | (Orange) Vaporize Stone | (Orange) Life Lash
+I have all these cards!
+Dusted a common for 10. I have 325 dust.
+
+RARE BOX
+(Orange) Ardent Inquisitor | (Yellow) Pack Mentality | (Neutral) Wrecking Crew
+I have all these cards!
+Dusted a rare for 25. I have 350 dust.
+
+COMMON BOX
+(Red) Static Discharge | (Neutral) Shockblade Smuggler | (Yellow) Idol of Reckoning
+I have all these cards!
+Dusted a common for 10. I have 360 dust.
+
+COMMON BOX
+(Green) Concord Artisan | (Blue) Chronoslap | (Purple) Devious Socialite
+I have all these cards!
+Dusted a common for 10. I have 370 dust.
+
+RARE BOX
+(Green) Tempest Hound | (Green) Grove Tender | (Purple) Corpse Explosion
+I have all these cards!
+Dusted a rare for 25. I have 395 dust.
+
+RARE BOX
+(Yellow) Idol Of Eternity | (Red) Personal Portal Device | (Orange) Zealot
+I have all these cards!
+Dusted a rare for 25. I have 420 dust.
+
+COMMON BOX
+(Neutral) Quartermaster | (Red) Hound Glass Mech | (Orange) Life Lash
+I have all these cards!
+Dusted a common for 10. I have 430 dust.
+
+COMMON BOX
+(Green) Blightspore Seedling | (Red) Strike Pack | (Red) Static Discharge
+Chose Strike Pack
+
+RARE BOX
+(Orange) Holy Armory | (Blue) Tease Fate | (Yellow) Idol Of Eternity
+I have all these cards!
+Dusted a rare for 25. I have 455 dust.
+
+COMMON BOX
+(Neutral) Bloodbond Fighter | (Purple) Grim Inspiration | (Purple) Devious Socialite
+Chose Grim Inspiration
+
+COMMON BOX
+(Blue) Slow Reflexes | (Neutral) Bloodbond Fighter | (Neutral) Shade
+I have all these cards!
+Dusted a common for 10. I have 465 dust.
+
+COMMON BOX
+(Red) Hound Glass Mech | (Purple) Grim Inspiration | (Yellow) Primal Vim
+Chose Primal Vim
+
+EPIC BOX
+(Neutral) Shadow Dancer | (Neutral) Spirit Binder | (Orange) Pillar of Judgement
+Chose Shadow Dancer
+
+COMMON BOX
+(Purple) Bone Eater | (Green) Seedsinger | (Neutral) Buccaneer
+I have all these cards!
+Dusted a common for 10. I have 475 dust.
+
+RARE BOX
+(Purple) Dark Traveler | (Blue) Tease Fate | (Red) Storm Class Mech
+I have all these cards!
+Dusted a rare for 25. I have 500 dust.
+
+RARE BOX
+(Neutral) Evergreen | (Neutral) Back Alley Bruiser | (Neutral) Martyr
+I have all these cards!
+Dusted a rare for 25. I have 525 dust.
+
+EPIC BOX
+(Green) Vein Waker | (Neutral) Spirit Binder | (Neutral) Skywatch Dragoon
+Chose Vein Waker
+
+COMMON BOX
+(Neutral) Snarling Mastiff | (Orange) Skyborne Crusader | (Red) Strike Pack
+I have all these cards!
+Dusted a common for 10. I have 535 dust.
+
+COMMON BOX
+(Green) Plainsguard | (Red) Strike Pack | (Red) Salvage Parts
+I have all these cards!
+Dusted a common for 10. I have 545 dust.
+
+COMMON BOX
+(Neutral) Frenzied Direhide | (Green) Groveguard | (Red) Insured Mech
+I have all these cards!
+Dusted a common for 10. I have 555 dust.
+
+RARE BOX
+(Green) Rampaging Boulder | (Red) Armory Gunner | (Orange) Harbinger
+I have all these cards!
+Dusted a rare for 25. I have 580 dust.
+
+RARE BOX
+(Yellow) Ghost Primal | (Yellow) Alpha Packmaster | (Red) Armory Gunner
+I have all these cards!
+Dusted a rare for 25. I have 605 dust.
+
+COMMON BOX
+(Blue) Distorter | (Red) Static Discharge | (Green) Cultivator
+I have all these cards!
+Dusted a common for 10. I have 615 dust.
+
+RARE BOX
+(Orange) Zealot | (Green) Rampaging Boulder | (Yellow) Alpha Packmaster
+I have all these cards!
+Dusted a rare for 25. I have 640 dust.
+
+COMMON BOX
+(Purple) Prestari Cultist | (Neutral) Dancer | (Purple) Dark Practitioner
+I have all these cards!
+Dusted a common for 10. I have 650 dust.
+
+EPIC BOX
+(Neutral) Master of Faces | (Red) Summon Nanobots | (Purple) Grave Lotus
+Chose Master of Faces
+
+LEGENDARY BOX
+(Blue) Prism Dancer | (Orange) High Luminator Cerys | (Neutral) The Prodigy
+I have all these cards!
+Dusted a legendary for 400. I have 1050 dust.
+
+RARE BOX
+(Orange) Harbinger | (Neutral) Blessed Archer | (Neutral) Weavebreaker
+I have all these cards!
+Dusted a rare for 25. I have 1075 dust.
+
+RARE BOX
+(Neutral) Trauma Guard | (Orange) Holy Armory | (Green) Grove Tender
+Chose Trauma Guard
+
+COMMON BOX
+(Green) Zephyr Monk | (Orange) Reckoning | (Red) Plating Specialist
+Chose Zephyr Monk
+
+COMMON BOX
+(Blue) Flux | (Neutral) Bloodbond Fighter | (Blue) Flux
+I have all these cards!
+Dusted a common for 10. I have 1085 dust.
+
+COMMON BOX
+(Neutral) Racy Recruiter | (Red) Upgrade Depot | (Purple) Progenitor
+Chose Progenitor
+
+COMMON BOX
+(Blue) Flux | (Green) Blightspore Seedling | (Neutral) Royal Scout
+Chose Royal Scout
+
+COMMON BOX
+(Red) Salvage Parts | (Blue) Temporal Drifter | (Neutral) Lightdancer
+I have all these cards!
+Dusted a common for 10. I have 1095 dust.
+
+RARE BOX
+(Orange) Echo Of Light | (Yellow) Alpha Packmaster | (Green) Snapdragon Cadet
+I have all these cards!
+Dusted a rare for 25. I have 1120 dust.
+
+RARE BOX
+(Green) Snapdragon Cadet | (Red) Armory Gunner | (Red) Builder Platform
+I have all these cards!
+Dusted a rare for 25. I have 1145 dust.
+
+RARE BOX
+(Orange) Vigil Keeper | (Green) Stripe Mine | (Red) Personal Portal Device
+I have all these cards!
+Dusted a rare for 25. I have 1170 dust.
+
+RARE BOX
+(Blue) Accelerator Pylon | (Green) Grove Tender | (Neutral) Plague Starter
+I have all these cards!
+Dusted a rare for 25. I have 1195 dust.
+
+COMMON BOX
+(Green) Earthen Rage | (Neutral) Rook | (Yellow) Tribe Warrior
+I have all these cards!
+Dusted a common for 10. I have 1205 dust.
+Crafted legendary Disciple of the Bow. I have 5 now.
+
+COMMON BOX
+(Neutral) Shockblade Smuggler | (Neutral) Frenzied Direhide | (Blue) Distorter
+I have all these cards!
+Dusted a common for 10. I have 15 dust.
+
+COMMON BOX
+(Neutral) Racy Recruiter | (Purple) Exsanguinate | (Yellow) Hunting Scout
+I have all these cards!
+Dusted a common for 10. I have 25 dust.
+
+COMMON BOX
+(Purple) Exsanguinate | (Orange) Chaotic Surge | (Neutral) Mind Thief
+I have all these cards!
+Dusted a common for 10. I have 35 dust.
+
+RARE BOX
+(Red) Requisitions Order | (Red) Reloading Exosuit | (Red) Armory Gunner
+I have all these cards!
+Dusted a rare for 25. I have 60 dust.
+
+EPIC BOX
+(Green) Vein Waker | (Yellow) Grand Wyrm Primal | (Neutral) Rabble Rouser
+Chose Vein Waker
+
+RARE BOX
+(Green) Stripe Mine | (Orange) Holy Armory | (Orange) Desperate Prayer
+I have all these cards!
+Dusted a rare for 25. I have 85 dust.
+
+RARE BOX
+(Neutral) Duskblade | (Green) Stripe Mine | (Purple) Dark Traveler
+I have all these cards!
+Dusted a rare for 25. I have 110 dust.
+
+LEGENDARY BOX
+(Neutral) Axelle The Unbroken | (Neutral) Crystal Queen | (Neutral) Disciple of the Bow
+Chose Axelle The Unbroken
+
+EPIC BOX
+(Neutral) Frenzied Rageclaw | (Neutral) Osprey Captain | (Neutral) Rabble Rouser
+Chose Frenzied Rageclaw
+
+RARE BOX
+(Green) Rampaging Boulder | (Neutral) Evergreen | (Red) Armory Gunner
+I have all these cards!
+Dusted a rare for 25. I have 135 dust.
+
+COMMON BOX
+(Green) Rock Crusher | (Yellow) Idol of Reckoning | (Red) Blockade Forger
+I have all these cards!
+Dusted a common for 10. I have 145 dust.
+
+LEGENDARY BOX
+(Neutral) Thundering Giant | (Purple) Pain Beast | (Blue) Prism Dancer
+Chose Thundering Giant
+
+RARE BOX
+(Red) Reloading Exosuit | (Neutral) Trauma Guard | (Green) Grove Tender
+I have all these cards!
+Dusted a rare for 25. I have 170 dust.
+
+COMMON BOX
+(Neutral) Shanker | (Neutral) Frenzied Direhide | (Purple) Exsanguinate
+I have all these cards!
+Dusted a common for 10. I have 180 dust.
+
+COMMON BOX
+(Blue) Chronoslap | (Orange) Vaporize Stone | (Yellow) Ancient Caller
+I have all these cards!
+Dusted a common for 10. I have 190 dust.
+
+RARE BOX
+(Neutral) Ephemera | (Yellow) Winged Primal | (Red) Reloading Exosuit
+I have all these cards!
+Dusted a rare for 25. I have 215 dust.
+
+RARE BOX
+(Red) Efficiency Expert | (Neutral) Ephemera | (Neutral) Devoted Curate
+Chose Efficiency Expert
+
+COMMON BOX
+(Neutral) Frenzied Direhide | (Neutral) Quartermaster | (Red) Upgrade Depot
+I have all these cards!
+Dusted a common for 10. I have 225 dust.
+
+COMMON BOX
+(Orange) Chaotic Surge | (Orange) Radiant Weapon | (Green) Stone Prison
+I have all these cards!
+Dusted a common for 10. I have 235 dust.
+
+EPIC BOX
+(Neutral) Pile O' Tomes | (Neutral) Arcanum Professor | (Blue) Alternate Reality
+Chose Pile O' Tomes
+
+EPIC BOX
+(Yellow) Grand Wyrm Primal | (Neutral) Osprey Captain | (Red) Summon Nanobots
+Chose Summon Nanobots
+
+RARE BOX
+(Blue) Fate Linker | (Neutral) Iron Heart | (Neutral) Evergreen
+I have all these cards!
+Dusted a rare for 25. I have 260 dust.
+
+EPIC BOX
+(Neutral) Shadow Dancer | (Neutral) Osprey Captain | (Neutral) Skywatch Dragoon
+Chose Skywatch Dragoon
+
+RARE BOX
+(Yellow) Alpha Packmaster | (Purple) Corpse Explosion | (Green) Snapdragon Cadet
+I have all these cards!
+Dusted a rare for 25. I have 285 dust.
+
+RARE BOX
+(Neutral) Blight Lasher | (Purple) Corpse Explosion | (Green) Tempest Hound
+I have all these cards!
+Dusted a rare for 25. I have 310 dust.
+
+RARE BOX
+(Purple) Corpse Explosion | (Neutral) Plague Starter | (Red) Personal Portal Device
+I have all these cards!
+Dusted a rare for 25. I have 335 dust.
+
+COMMON BOX
+(Purple) Devious Socialite | (Orange) Radiant Weapon | (Yellow) Idol of Reckoning
+I have all these cards!
+Dusted a common for 10. I have 345 dust.
+
+RARE BOX
+(Blue) Fate Linker | (Yellow) Winged Primal | (Red) Reloading Exosuit
+I have all these cards!
+Dusted a rare for 25. I have 370 dust.
+
+RARE BOX
+(Orange) Zealot | (Green) Disciple of Almast | (Yellow) Idol Of Eternity
+I have all these cards!
+Dusted a rare for 25. I have 395 dust.
+
+COMMON BOX
+(Neutral) Royal Scout | (Yellow) Eagle Primal | (Neutral) Hungry Gnarbek
+Chose Eagle Primal
+
+COMMON BOX
+(Purple) Prestari Cultist | (Orange) Lightspear Justical | (Green) Plainsguard
+I have all these cards!
+Dusted a common for 10. I have 405 dust.
+
+COMMON BOX
+(Purple) Exsanguinate | (Neutral) Mind Thief | (Orange) Skyborne Crusader
+I have all these cards!
+Dusted a common for 10. I have 415 dust.
+
+COMMON BOX
+(Yellow) Wolf Primal | (Purple) Prestari Cultist | (Neutral) Mind Thief
+I have all these cards!
+Dusted a common for 10. I have 425 dust.
+
+COMMON BOX
+(Orange) Luminator Initiate | (Neutral) Racy Recruiter | (Blue) Warp Specialist
+I have all these cards!
+Dusted a common for 10. I have 435 dust.
+
+RARE BOX
+(Orange) Desperate Prayer | (Red) Storm Class Mech | (Blue) Tease Fate
+I have all these cards!
+Dusted a rare for 25. I have 460 dust.
+
+COMMON BOX
+(Yellow) Primal Vim | (Yellow) Hunting Scout | (Green) Zephyr Monk
+I have all these cards!
+Dusted a common for 10. I have 470 dust.
+
+COMMON BOX
+(Neutral) Frenzied Direhide | (Blue) Temporal Drifter | (Neutral) Lightdancer
+I have all these cards!
+Dusted a common for 10. I have 480 dust.
+
+RARE BOX
+(Neutral) Blade of Valor | (Neutral) Blight Lasher | (Neutral) Evergreen
+I have all these cards!
+Dusted a rare for 25. I have 505 dust.
+
+RARE BOX
+(Yellow) Menagerie | (Orange) Ardent Inquisitor | (Neutral) Duskblade
+I have all these cards!
+Dusted a rare for 25. I have 530 dust.
+
+RARE BOX
+(Yellow) Ghost Primal | (Green) Stripe Mine | (Purple) Cytoplast
+I have all these cards!
+Dusted a rare for 25. I have 555 dust.
+
+COMMON BOX
+(Purple) Progenitor | (Blue) Distorter | (Purple) Progenitor
+I have all these cards!
+Dusted a common for 10. I have 565 dust.
+
+COMMON BOX
+(Orange) Chaotic Surge | (Green) Earthen Rage | (Neutral) Hungry Gnarbek
+Chose Hungry Gnarbek
+
+RARE BOX
+(Blue) Rift Trickster | (Orange) Holy Armory | (Yellow) Roar: Burrow
+I have all these cards!
+Dusted a rare for 25. I have 590 dust.
+
+COMMON BOX
+(Green) Groveguard | (Red) Hound Glass Mech | (Orange) Radiant Weapon
+I have all these cards!
+Dusted a common for 10. I have 600 dust.
+
+RARE BOX
+(Blue) Accelerator Pylon | (Purple) Dark Traveler | (Orange) Desperate Prayer
+I have all these cards!
+Dusted a rare for 25. I have 625 dust.
+
+EPIC BOX
+(Neutral) Bellowing Giant | (Neutral) Rabble Rouser | (Orange) Bless The Meek
+Chose Bless The Meek
+
+RARE BOX
+(Blue) Accelerator Pylon | (Blue) Rift Trickster | (Neutral) Blade of Valor
+I have all these cards!
+Dusted a rare for 25. I have 650 dust.
+
+COMMON BOX
+(Neutral) Hungry Gnarbek | (Red) Blockade Forger | (Yellow) Idol of Reckoning
+Chose Hungry Gnarbek
+
+COMMON BOX
+(Yellow) Pack Awakener | (Neutral) Buccaneer | (Blue) Warp Specialist
+I have all these cards!
+Dusted a common for 10. I have 660 dust.
+
+COMMON BOX
+(Green) Earthen Rage | (Green) Seedsinger | (Orange) Chaotic Surge
+I have all these cards!
+Dusted a common for 10. I have 670 dust.
+
+RARE BOX
+(Blue) Rift Trickster | (Green) Tempest Hound | (Orange) Ardent Inquisitor
+I have all these cards!
+Dusted a rare for 25. I have 695 dust.
+
+COMMON BOX
+(Green) Concord Artisan | (Red) Insured Mech | (Green) Stone Prison
+I have all these cards!
+Dusted a common for 10. I have 705 dust.
+
+RARE BOX
+(Neutral) Blade of Valor | (Green) Rampaging Boulder | (Green) Snapdragon Cadet
+I have all these cards!
+Dusted a rare for 25. I have 730 dust.
+
+COMMON BOX
+(Red) Hound Glass Mech | (Blue) Timesmith | (Green) Concord Artisan
+Chose Timesmith
+
+COMMON BOX
+(Neutral) Quartermaster | (Green) Earthen Rage | (Neutral) Royal Scout
+I have all these cards!
+Dusted a common for 10. I have 740 dust.
+
+COMMON BOX
+(Yellow) Tribe Warrior | (Neutral) Snarling Mastiff | (Red) Medframe Tech
+I have all these cards!
+Dusted a common for 10. I have 750 dust.
+
+RARE BOX
+(Purple) Dark Traveler | (Blue) Rift Trickster | (Neutral) Wrecking Crew
+I have all these cards!
+Dusted a rare for 25. I have 775 dust.
+
+COMMON BOX
+(Orange) Luminator Initiate | (Green) Seedsinger | (Green) Cultivator
+I have all these cards!
+Dusted a common for 10. I have 785 dust.
+
+EPIC BOX
+(Neutral) Shadow Dancer | (Blue) Alternate Reality | (Neutral) Frenzied Rageclaw
+Chose Alternate Reality
+
+RARE BOX
+(Green) Snapdragon Cadet | (Neutral) Martyr | (Yellow) Idol Of Eternity
+I have all these cards!
+Dusted a rare for 25. I have 810 dust.
+
+RARE BOX
+(Neutral) Martyr | (Green) Tempest Hound | (Blue) Fork Existence
+I have all these cards!
+Dusted a rare for 25. I have 835 dust.
+
+RARE BOX
+(Green) Snapdragon Cadet | (Purple) Dark Traveler | (Orange) Echo Of Light
+I have all these cards!
+Dusted a rare for 25. I have 860 dust.
+
+COMMON BOX
+(Red) Blockade Forger | (Neutral) Bloodbond Fighter | (Green) Cultivator
+I have all these cards!
+Dusted a common for 10. I have 870 dust.
+
+COMMON BOX
+(Yellow) Beloved Trainer | (Blue) Timesmith | (Purple) Thrall Mutation
+I have all these cards!
+Dusted a common for 10. I have 880 dust.
+
+COMMON BOX
+(Orange) Ascension | (Neutral) Bloodbond Fighter | (Green) Blightspore Seedling
+I have all these cards!
+Dusted a common for 10. I have 890 dust.
+
+COMMON BOX
+(Neutral) Snarling Mastiff | (Neutral) Arcanum Steward | (Purple) Thrall Mutation
+I have all these cards!
+Dusted a common for 10. I have 900 dust.
+
+RARE BOX
+(Neutral) Royal Magnate | (Yellow) Ghost Primal | (Neutral) Trauma Guard
+I have all these cards!
+Dusted a rare for 25. I have 925 dust.
+
+RARE BOX
+(Orange) Ardent Inquisitor | (Red) Personal Portal Device | (Neutral) Martyr
+I have all these cards!
+Dusted a rare for 25. I have 950 dust.
+
+COMMON BOX
+(Neutral) Bloodbond Fighter | (Green) Earthen Rage | (Orange) Life Lash
+I have all these cards!
+Dusted a common for 10. I have 960 dust.
+
+COMMON BOX
+(Red) Plating Specialist | (Purple) Devious Socialite | (Blue) Timesmith
+I have all these cards!
+Dusted a common for 10. I have 970 dust.
+
+LEGENDARY BOX
+(Neutral) Admiral Florian | (Neutral) Thundering Giant | (Neutral) Admiral Florian
+Chose Admiral Florian
+
+RARE BOX
+(Neutral) Evergreen | (Yellow) Menagerie | (Orange) Ardent Inquisitor
+I have all these cards!
+Dusted a rare for 25. I have 995 dust.
+
+COMMON BOX
+(Purple) Progenitor | (Yellow) Hunting Scout | (Purple) Devious Socialite
+I have all these cards!
+Dusted a common for 10. I have 1005 dust.
+
+COMMON BOX
+(Orange) Radiant Weapon | (Green) Plainsguard | (Red) Salvage Parts
+I have all these cards!
+Dusted a common for 10. I have 1015 dust.
+
+RARE BOX
+(Blue) Baffling Presence | (Orange) Evangelist | (Neutral) Trauma Guard
+I have all these cards!
+Dusted a rare for 25. I have 1040 dust.
+
+EPIC BOX
+(Orange) Pillar of Judgement | (Neutral) Weave Eater | (Neutral) Spirit Binder
+Chose Pillar of Judgement
+
+EPIC BOX
+(Blue) Astral Champion | (Red) Summon Nanobots | (Purple) Plague Spore
+Chose Astral Champion
+
+COMMON BOX
+(Red) Medframe Tech | (Neutral) Buccaneer | (Orange) Burn The Wings
+I have all these cards!
+Dusted a common for 10. I have 1050 dust.
+
+RARE BOX
+(Neutral) Iron Heart | (Green) Lokri Nightshade | (Yellow) To Me!
+I have all these cards!
+Dusted a rare for 25. I have 1075 dust.
+
+COMMON BOX
+(Green) Blightspore Seedling | (Yellow) Primal Vim | (Red) Gravwell Exosuit
+I have all these cards!
+Dusted a common for 10. I have 1085 dust.
+
+RARE BOX
+(Neutral) Blade of Valor | (Orange) Zealot | (Orange) Desperate Prayer
+I have all these cards!
+Dusted a rare for 25. I have 1110 dust.
+
+COMMON BOX
+(Red) Medframe Tech | (Orange) Life Lash | (Yellow) Wolf Primal
+I have all these cards!
+Dusted a common for 10. I have 1120 dust.
+
+RARE BOX
+(Red) Builder Platform | (Red) Armory Gunner | (Neutral) Imposter
+I have all these cards!
+Dusted a rare for 25. I have 1145 dust.
+
+COMMON BOX
+(Blue) Spark of Genius | (Green) Concord Artisan | (Red) Plating Specialist
+I have all these cards!
+Dusted a common for 10. I have 1155 dust.
+
+RARE BOX
+(Red) Personal Portal Device | (Neutral) Plague Starter | (Orange) Ardent Inquisitor
+I have all these cards!
+Dusted a rare for 25. I have 1180 dust.
+
+RARE BOX
+(Green) Snapdragon Cadet | (Yellow) Alpha Packmaster | (Red) Requisitions Order
+I have all these cards!
+Dusted a rare for 25. I have 1205 dust.
+Crafted legendary Ghost Archer. I have 5 now.
+
+COMMON BOX
+(Neutral) Grand Defender | (Yellow) Tribe Warrior | (Orange) Chaotic Surge
+I have all these cards!
+Dusted a common for 10. I have 15 dust.
+
+COMMON BOX
+(Neutral) Rook | (Green) Blightspore Seedling | (Orange) Radiant Weapon
+I have all these cards!
+Dusted a common for 10. I have 25 dust.
+
+RARE BOX
+(Neutral) Pawnbroker | (Green) Snapdragon Cadet | (Neutral) Duskblade
+I have all these cards!
+Dusted a rare for 25. I have 50 dust.
+
+RARE BOX
+(Green) Lokri Nightshade | (Red) Outlaw Class Mech | (Green) Precise Detonation
+I have all these cards!
+Dusted a rare for 25. I have 75 dust.
+
+RARE BOX
+(Neutral) Martyr | (Green) Lokri Nightshade | (Yellow) Pack Mentality
+I have all these cards!
+Dusted a rare for 25. I have 100 dust.
+
+COMMON BOX
+(Purple) Thrall Mutation | (Yellow) Hunting Scout | (Yellow) Beloved Trainer
+I have all these cards!
+Dusted a common for 10. I have 110 dust.
+
+COMMON BOX
+(Orange) Burn The Wings | (Red) Gravwell Exosuit | (Red) Upgrade Depot
+I have all these cards!
+Dusted a common for 10. I have 120 dust.
+
+RARE BOX
+(Neutral) Devoted Curate | (Blue) Rift Trickster | (Blue) Accelerator Pylon
+I have all these cards!
+Dusted a rare for 25. I have 145 dust.
+
+RARE BOX
+(Neutral) Imposter | (Orange) Zealot | (Green) Disciple of Almast
+I have all these cards!
+Dusted a rare for 25. I have 170 dust.
+
+COMMON BOX
+(Neutral) Hungry Gnarbek | (Blue) Chronoslap | (Neutral) Royal Scout
+I have all these cards!
+Dusted a common for 10. I have 180 dust.
+
+COMMON BOX
+(Purple) Swarm Spore | (Blue) Temporal Technician | (Yellow) Pack Awakener
+I have all these cards!
+Dusted a common for 10. I have 190 dust.
+
+RARE BOX
+(Green) Lokri Nightshade | (Neutral) Duskblade | (Yellow) Idol Of Eternity
+I have all these cards!
+Dusted a rare for 25. I have 215 dust.
+
+COMMON BOX
+(Yellow) Wolf Primal | (Neutral) Lightdancer | (Red) Salvage Parts
+I have all these cards!
+Dusted a common for 10. I have 225 dust.
+
+LEGENDARY BOX
+(Purple) Pain Beast | (Neutral) High Shepherd Katell | (Purple) Pain Beast
+Chose High Shepherd Katell
+
+COMMON BOX
+(Purple) Devious Socialite | (Blue) Temporal Drifter | (Orange) Vaporize Stone
+I have all these cards!
+Dusted a common for 10. I have 235 dust.
+
+COMMON BOX
+(Red) Blockade Forger | (Neutral) Bloodbond Fighter | (Neutral) Grand Defender
+I have all these cards!
+Dusted a common for 10. I have 245 dust.
+
+RARE BOX
+(Blue) Tease Fate | (Yellow) Roar: Burrow | (Neutral) Royal Magnate
+I have all these cards!
+Dusted a rare for 25. I have 270 dust.
+
+RARE BOX
+(Green) Stripe Mine | (Neutral) Duskblade | (Red) Reloading Exosuit
+I have all these cards!
+Dusted a rare for 25. I have 295 dust.
+
+RARE BOX
+(Yellow) Roar: Burrow | (Purple) Blood Betrayal | (Neutral) Devoted Curate
+I have all these cards!
+Dusted a rare for 25. I have 320 dust.
+
+EPIC BOX
+(Neutral) Bellowing Giant | (Neutral) Phantom Betrayer | (Blue) Alternate Reality
+Chose Alternate Reality
+
+RARE BOX
+(Green) Disciple of Almast | (Red) Armory Gunner | (Blue) Gravity Surge
+I have all these cards!
+Dusted a rare for 25. I have 345 dust.
+
+COMMON BOX
+(Orange) Reckoning | (Blue) Distorter | (Yellow) Wolf Primal
+I have all these cards!
+Dusted a common for 10. I have 355 dust.
+
+COMMON BOX
+(Orange) Reckoning | (Neutral) Bloodbond Fighter | (Green) Seedsinger
+I have all these cards!
+Dusted a common for 10. I have 365 dust.
+
+RARE BOX
+(Red) Reloading Exosuit | (Neutral) Weavebreaker | (Red) Outlaw Class Mech
+I have all these cards!
+Dusted a rare for 25. I have 390 dust.
+
+COMMON BOX
+(Green) Cultivator | (Neutral) Dancer | (Red) Plating Specialist
+I have all these cards!
+Dusted a common for 10. I have 400 dust.
+
+RARE BOX
+(Purple) Dark Traveler | (Orange) Echo Of Light | (Neutral) Back Alley Bruiser
+I have all these cards!
+Dusted a rare for 25. I have 425 dust.
+
+RARE BOX
+(Green) Stonecall Seedling | (Purple) Soul Bounty | (Orange) Zealot
+I have all these cards!
+Dusted a rare for 25. I have 450 dust.
+
+EPIC BOX
+(Neutral) Arcanum Professor | (Blue) Astral Champion | (Neutral) Shadow Dancer
+Chose Arcanum Professor
+
+COMMON BOX
+(Purple) Devious Socialite | (Neutral) Dancer | (Red) Plating Specialist
+I have all these cards!
+Dusted a common for 10. I have 460 dust.
+
+COMMON BOX
+(Neutral) Wraith | (Red) Plating Specialist | (Purple) Exsanguinate
+I have all these cards!
+Dusted a common for 10. I have 470 dust.
+
+EPIC BOX
+(Neutral) Census Master | (Neutral) Phantom Betrayer | (Orange) Bless The Meek
+Chose Census Master
+
+COMMON BOX
+(Red) Medframe Tech | (Neutral) Frenzied Direhide | (Neutral) Arcanum Steward
+I have all these cards!
+Dusted a common for 10. I have 480 dust.
+
+RARE BOX
+(Yellow) Winged Primal | (Neutral) Royal Magnate | (Orange) Echo Of Light
+I have all these cards!
+Dusted a rare for 25. I have 505 dust.
+
+EPIC BOX
+(Neutral) Rabble Rouser | (Yellow) Raised By Primals | (Neutral) Osprey Captain
+Chose Raised By Primals
+
+RARE BOX
+(Neutral) Evergreen | (Red) Requisitions Order | (Neutral) Wrecking Crew
+I have all these cards!
+Dusted a rare for 25. I have 530 dust.
+
+COMMON BOX
+(Red) Salvage Parts | (Orange) Life Lash | (Red) Hound Glass Mech
+I have all these cards!
+Dusted a common for 10. I have 540 dust.
+
+COMMON BOX
+(Yellow) Wolf Primal | (Neutral) Mind Thief | (Neutral) Rook
+I have all these cards!
+Dusted a common for 10. I have 550 dust.
+
+RARE BOX
+(Purple) Dark Traveler | (Red) Reloading Exosuit | (Green) Grove Tender
+I have all these cards!
+Dusted a rare for 25. I have 575 dust.
+
+RARE BOX
+(Neutral) Evergreen | (Neutral) Iron Heart | (Neutral) Martyr
+I have all these cards!
+Dusted a rare for 25. I have 600 dust.
+
+RARE BOX
+(Green) Precise Detonation | (Yellow) Menagerie | (Neutral) Trauma Guard
+I have all these cards!
+Dusted a rare for 25. I have 625 dust.
+
+COMMON BOX
+(Purple) Exsanguinate | (Neutral) Snarling Mastiff | (Orange) Radiant Weapon
+I have all these cards!
+Dusted a common for 10. I have 635 dust.
+
+RARE BOX
+(Orange) Holy Armory | (Orange) Echo Of Light | (Red) Armory Gunner
+I have all these cards!
+Dusted a rare for 25. I have 660 dust.
+
+RARE BOX
+(Yellow) Winged Primal | (Neutral) Blade of Valor | (Purple) Cytoplast
+I have all these cards!
+Dusted a rare for 25. I have 685 dust.
+
+COMMON BOX
+(Neutral) Dancer | (Orange) Luminator Initiate | (Green) Plainsguard
+I have all these cards!
+Dusted a common for 10. I have 695 dust.
+
+RARE BOX
+(Neutral) Blight Lasher | (Neutral) Imposter | (Neutral) Royal Magnate
+I have all these cards!
+Dusted a rare for 25. I have 720 dust.
+
+RARE BOX
+(Purple) Night of the Living Dead | (Green) Stripe Mine | (Orange) Vigil Keeper
+I have all these cards!
+Dusted a rare for 25. I have 745 dust.
+
+RARE BOX
+(Orange) Desperate Prayer | (Neutral) Imposter | (Purple) Soul Bounty
+I have all these cards!
+Dusted a rare for 25. I have 770 dust.
+
+COMMON BOX
+(Green) Cultivator | (Neutral) Shanker | (Orange) Lightspear Justical
+I have all these cards!
+Dusted a common for 10. I have 780 dust.
+
+RARE BOX
+(Neutral) Blight Lasher | (Green) Stripe Mine | (Yellow) Ghost Primal
+I have all these cards!
+Dusted a rare for 25. I have 805 dust.
+
+RARE BOX
+(Neutral) Ephemera | (Neutral) Spellboxer | (Neutral) Imposter
+I have all these cards!
+Dusted a rare for 25. I have 830 dust.
+
+EPIC BOX
+(Green) Vein Waker | (Purple) Plague Spore | (Orange) Bless The Meek
+Chose Bless The Meek
+
+COMMON BOX
+(Orange) Skyborne Crusader | (Purple) Progenitor | (Red) Plating Specialist
+I have all these cards!
+Dusted a common for 10. I have 840 dust.
+
+COMMON BOX
+(Yellow) Pack Awakener | (Yellow) Roar: Earburst | (Neutral) Cannoneer
+Chose Roar: Earburst
+
+COMMON BOX
+(Orange) Reckoning | (Neutral) Dancer | (Yellow) Idol of Reckoning
+I have all these cards!
+Dusted a common for 10. I have 850 dust.
+
+RARE BOX
+(Green) Stonecall Seedling | (Neutral) Trauma Guard | (Blue) Fork Existence
+I have all these cards!
+Dusted a rare for 25. I have 875 dust.
+
+RARE BOX
+(Orange) Zealot | (Orange) Vigil Keeper | (Yellow) Winged Primal
+I have all these cards!
+Dusted a rare for 25. I have 900 dust.
+
+COMMON BOX
+(Yellow) Roar: Earburst | (Orange) Chaotic Surge | (Yellow) Idol of Reckoning
+I have all these cards!
+Dusted a common for 10. I have 910 dust.
+
+RARE BOX
+(Blue) Tease Fate | (Yellow) To Me! | (Orange) Holy Armory
+I have all these cards!
+Dusted a rare for 25. I have 935 dust.
+
+RARE BOX
+(Purple) Perfected Specimen | (Neutral) Ephemera | (Red) Personal Portal Device
+I have all these cards!
+Dusted a rare for 25. I have 960 dust.
+
+LEGENDARY BOX
+(Purple) Pain Beast | (Red) Creation Specialist | (Green) The Lifespark
+Chose Creation Specialist
+
+RARE BOX
+(Blue) Accelerator Pylon | (Red) Personal Portal Device | (Orange) Vigil Keeper
+I have all these cards!
+Dusted a rare for 25. I have 985 dust.
+
+LEGENDARY BOX
+(Green) The Lifespark | (Neutral) Ghost Archer | (Purple) Pain Beast
+Chose The Lifespark
+
+EPIC BOX
+(Neutral) Ghost Blade | (Neutral) Phantom Betrayer | (Green) Voice of the Squall
+I have all these cards!
+Dusted an epic for 100. I have 1085 dust.
+
+RARE BOX
+(Green) Rampaging Boulder | (Yellow) Winged Primal | (Red) Storm Class Mech
+I have all these cards!
+Dusted a rare for 25. I have 1110 dust.
+
+RARE BOX
+(Neutral) Imposter | (Neutral) Wrecking Crew | (Neutral) Duskblade
+I have all these cards!
+Dusted a rare for 25. I have 1135 dust.
+
+RARE BOX
+(Purple) Dark Traveler | (Blue) Accelerator Pylon | (Purple) Soul Bounty
+I have all these cards!
+Dusted a rare for 25. I have 1160 dust.
+
+RARE BOX
+(Neutral) Devoted Curate | (Green) Disciple of Almast | (Orange) Echo Of Light
+I have all these cards!
+Dusted a rare for 25. I have 1185 dust.
+
+COMMON BOX
+(Yellow) Ancient Caller | (Red) Hound Glass Mech | (Neutral) Royal Scout
+I have all these cards!
+Dusted a common for 10. I have 1195 dust.
+
+RARE BOX
+(Orange) Desperate Prayer | (Yellow) Roar: Burrow | (Neutral) Weavebreaker
+I have all these cards!
+Dusted a rare for 25. I have 1220 dust.
+Crafted legendary Bloodthirster. I have 20 now.
+
+LEGENDARY BOX
+(Red) Creation Specialist | (Green) The Lifespark | (Green) The Lifespark
+I have all these cards!
+Dusted a legendary for 400. I have 420 dust.
+
+RARE BOX
+(Orange) Vigil Keeper | (Neutral) Pawnbroker | (Yellow) Roar: Burrow
+I have all these cards!
+Dusted a rare for 25. I have 445 dust.
+
+EPIC BOX
+(Neutral) Tinker Master | (Neutral) Phalanx Leader | (Neutral) Veil Shrieker
+Chose Tinker Master
+
+RARE BOX
+(Purple) Dark Traveler | (Green) Lokri Nightshade | (Blue) Gravity Surge
+I have all these cards!
+Dusted a rare for 25. I have 470 dust.
+
+RARE BOX
+(Green) Precise Detonation | (Neutral) Ephemera | (Purple) Dark Traveler
+I have all these cards!
+Dusted a rare for 25. I have 495 dust.
+
+RARE BOX
+(Orange) Harbinger | (Purple) Cytoplast | (Blue) Baffling Presence
+I have all these cards!
+Dusted a rare for 25. I have 520 dust.
+
+RARE BOX
+(Yellow) Roar: Burrow | (Red) Requisitions Order | (Yellow) Ghost Primal
+I have all these cards!
+Dusted a rare for 25. I have 545 dust.
+
+EPIC BOX
+(Neutral) Master of Faces | (Neutral) Phantom Betrayer | (Orange) Pillar of Judgement
+I have all these cards!
+Dusted an epic for 100. I have 645 dust.
+
+RARE BOX
+(Orange) Desperate Prayer | (Red) Storm Class Mech | (Blue) Baffling Presence
+I have all these cards!
+Dusted a rare for 25. I have 670 dust.
+
+RARE BOX
+(Orange) Echo Of Light | (Yellow) Winged Primal | (Purple) Night of the Living Dead
+I have all these cards!
+Dusted a rare for 25. I have 695 dust.
+
+COMMON BOX
+(Red) Plating Specialist | (Purple) Night Horror | (Yellow) Wolf Primal
+I have all these cards!
+Dusted a common for 10. I have 705 dust.
+
+COMMON BOX
+(Orange) Ascension | (Neutral) Arcanum Steward | (Blue) Slow Reflexes
+I have all these cards!
+Dusted a common for 10. I have 715 dust.
+
+COMMON BOX
+(Orange) Vaporize Stone | (Blue) Chronoslap | (Green) Zephyr Monk
+I have all these cards!
+Dusted a common for 10. I have 725 dust.
+
+RARE BOX
+(Yellow) Idol Of Eternity | (Green) Tempest Hound | (Yellow) To Me!
+I have all these cards!
+Dusted a rare for 25. I have 750 dust.
+
+COMMON BOX
+(Neutral) Bloodbond Fighter | (Yellow) Hunting Scout | (Purple) Swarm Spore
+I have all these cards!
+Dusted a common for 10. I have 760 dust.
+
+LEGENDARY BOX
+(Orange) High Luminator Cerys | (Neutral) The Kraken | (Yellow) Moya Primal
+Chose Moya Primal
+
+RARE BOX
+(Red) Outlaw Class Mech | (Neutral) Devoted Curate | (Neutral) Duskblade
+I have all these cards!
+Dusted a rare for 25. I have 785 dust.
+
+RARE BOX
+(Purple) Cytoplast | (Yellow) Ghost Primal | (Purple) Blood Betrayal
+I have all these cards!
+Dusted a rare for 25. I have 810 dust.
+
+RARE BOX
+(Neutral) Blade of Valor | (Neutral) Pawnbroker | (Neutral) Blight Lasher
+I have all these cards!
+Dusted a rare for 25. I have 835 dust.
+
+COMMON BOX
+(Red) Insured Mech | (Blue) Spark of Genius | (Blue) Flux
+I have all these cards!
+Dusted a common for 10. I have 845 dust.
+
+COMMON BOX
+(Yellow) Ancient Caller | (Green) Blightspore Seedling | (Green) Earthen Rage
+I have all these cards!
+Dusted a common for 10. I have 855 dust.
+
+COMMON BOX
+(Blue) Warp Specialist | (Red) Static Discharge | (Yellow) Beloved Trainer
+I have all these cards!
+Dusted a common for 10. I have 865 dust.
+
+COMMON BOX
+(Blue) Temporal Technician | (Neutral) Lightdancer | (Red) Plating Specialist
+I have all these cards!
+Dusted a common for 10. I have 875 dust.
+
+COMMON BOX
+(Green) Stone Prison | (Purple) Dark Practitioner | (Purple) Bone Eater
+I have all these cards!
+Dusted a common for 10. I have 885 dust.
+
+COMMON BOX
+(Neutral) Wraith | (Orange) Vaporize Stone | (Green) Cultivator
+I have all these cards!
+Dusted a common for 10. I have 895 dust.
+
+RARE BOX
+(Purple) Soul Bounty | (Red) Builder Platform | (Purple) Perfected Specimen
+I have all these cards!
+Dusted a rare for 25. I have 920 dust.
+
+COMMON BOX
+(Blue) Slow Reflexes | (Orange) Life Lash | (Red) Strike Pack
+I have all these cards!
+Dusted a common for 10. I have 930 dust.
+
+RARE BOX
+(Orange) Ardent Inquisitor | (Purple) Soul Bounty | (Red) Builder Platform
+I have all these cards!
+Dusted a rare for 25. I have 955 dust.
+
+RARE BOX
+(Blue) Fork Existence | (Red) Storm Class Mech | (Orange) Ardent Inquisitor
+I have all these cards!
+Dusted a rare for 25. I have 980 dust.
+
+COMMON BOX
+(Blue) Warp Specialist | (Neutral) Snarling Mastiff | (Red) Medframe Tech
+I have all these cards!
+Dusted a common for 10. I have 990 dust.
+
+COMMON BOX
+(Orange) Chaotic Surge | (Red) Upgrade Depot | (Green) Earthen Rage
+I have all these cards!
+Dusted a common for 10. I have 1000 dust.
+
+COMMON BOX
+(Red) Plating Specialist | (Neutral) Racy Recruiter | (Orange) Life Lash
+I have all these cards!
+Dusted a common for 10. I have 1010 dust.
+
+RARE BOX
+(Neutral) Back Alley Bruiser | (Orange) Desperate Prayer | (Orange) Desperate Prayer
+I have all these cards!
+Dusted a rare for 25. I have 1035 dust.
+
+COMMON BOX
+(Neutral) Mind Thief | (Orange) Burn The Wings | (Yellow) Eagle Primal
+I have all these cards!
+Dusted a common for 10. I have 1045 dust.
+
+RARE BOX
+(Green) Stripe Mine | (Blue) Fate Linker | (Green) Precise Detonation
+I have all these cards!
+Dusted a rare for 25. I have 1070 dust.
+
+RARE BOX
+(Neutral) Blade of Valor | (Neutral) Wrecking Crew | (Neutral) Weavebreaker
+I have all these cards!
+Dusted a rare for 25. I have 1095 dust.
+
+COMMON BOX
+(Green) Rock Crusher | (Neutral) Hungry Gnarbek | (Purple) Exsanguinate
+I have all these cards!
+Dusted a common for 10. I have 1105 dust.
+
+RARE BOX
+(Orange) Harbinger | (Purple) Night of the Living Dead | (Purple) Corpse Explosion
+I have all these cards!
+Dusted a rare for 25. I have 1130 dust.
+
+LEGENDARY BOX
+(Neutral) The Prodigy | (Orange) Become Dust | (Purple) Pain Beast
+Chose Become Dust
+
+COMMON BOX
+(Green) Blightspore Seedling | (Neutral) Mind Thief | (Yellow) Ancient Caller
+I have all these cards!
+Dusted a common for 10. I have 1140 dust.
+
+COMMON BOX
+(Neutral) Arcanum Steward | (Neutral) Frenzied Direhide | (Neutral) Quartermaster
+I have all these cards!
+Dusted a common for 10. I have 1150 dust.
+
+EPIC BOX
+(Neutral) Shifting Nightmare | (Neutral) Soul Shifter | (Neutral) Phalanx Leader
+Chose Shifting Nightmare
+
+RARE BOX
+(Blue) Tease Fate | (Red) Personal Portal Device | (Red) Efficiency Expert
+Chose Efficiency Expert
+
+LEGENDARY BOX
+(Neutral) Astral Phoenix | (Purple) Narciso, Sarcone Assassin | (Blue) Super Time Skip
+Chose Narciso, Sarcone Assassin
+
+RARE BOX
+(Neutral) Royal Magnate | (Blue) Baffling Presence | (Neutral) Blade of Valor
+I have all these cards!
+Dusted a rare for 25. I have 1175 dust.
+
+RARE BOX
+(Neutral) Runebound Valet | (Neutral) Blight Lasher | (Green) Snapdragon Cadet
+Chose Runebound Valet
+
+RARE BOX
+(Orange) Harbinger | (Red) Requisitions Order | (Blue) Fork Existence
+I have all these cards!
+Dusted a rare for 25. I have 1200 dust.
+Crafted legendary Zieger-1. I have 0 now.
+
+RARE BOX
+(Orange) Desperate Prayer | (Purple) Blood Betrayal | (Yellow) Roar: Burrow
+I have all these cards!
+Dusted a rare for 25. I have 25 dust.
+
+RARE BOX
+(Red) Personal Portal Device | (Neutral) Devoted Curate | (Red) Builder Platform
+I have all these cards!
+Dusted a rare for 25. I have 50 dust.
+
+COMMON BOX
+(Neutral) Snarling Mastiff | (Neutral) Racy Recruiter | (Red) Upgrade Depot
+I have all these cards!
+Dusted a common for 10. I have 60 dust.
+
+RARE BOX
+(Neutral) Duskblade | (Orange) Holy Armory | (Orange) Vigil Keeper
+I have all these cards!
+Dusted a rare for 25. I have 85 dust.
+
+RARE BOX
+(Green) Snapdragon Cadet | (Purple) Corpse Explosion | (Yellow) Menagerie
+I have all these cards!
+Dusted a rare for 25. I have 110 dust.
+
+RARE BOX
+(Blue) Baffling Presence | (Purple) Cytoplast | (Orange) Ardent Inquisitor
+I have all these cards!
+Dusted a rare for 25. I have 135 dust.
+
+EPIC BOX
+(Neutral) Ghost Blade | (Neutral) Shifting Nightmare | (Yellow) Grand Wyrm Primal
+Chose Shifting Nightmare
+
+RARE BOX
+(Blue) Stallar Replicas | (Yellow) Menagerie | (Neutral) Shield of Durant
+I have all these cards!
+Dusted a rare for 25. I have 160 dust.
+
+COMMON BOX
+(Yellow) Primal Vim | (Neutral) Hungry Gnarbek | (Purple) Swarm Spore
+I have all these cards!
+Dusted a common for 10. I have 170 dust.
+
+COMMON BOX
+(Blue) Distorter | (Green) Groveguard | (Red) Static Discharge
+I have all these cards!
+Dusted a common for 10. I have 180 dust.
+
+COMMON BOX
+(Purple) Devious Socialite | (Neutral) Buccaneer | (Neutral) Shanker
+I have all these cards!
+Dusted a common for 10. I have 190 dust.
+
+RARE BOX
+(Green) Stonecall Seedling | (Neutral) Weavebreaker | (Green) Snapdragon Cadet
+I have all these cards!
+Dusted a rare for 25. I have 215 dust.
+
+COMMON BOX
+(Yellow) Pack Awakener | (Green) Cultivator | (Yellow) Pack Awakener
+I have all these cards!
+Dusted a common for 10. I have 225 dust.
+
+COMMON BOX
+(Green) Plainsguard | (Green) Rock Crusher | (Green) Cultivator
+I have all these cards!
+Dusted a common for 10. I have 235 dust.
+
+RARE BOX
+(Yellow) Menagerie | (Red) Requisitions Order | (Purple) Night of the Living Dead
+I have all these cards!
+Dusted a rare for 25. I have 260 dust.
+
+RARE BOX
+(Yellow) To Me! | (Red) Storm Class Mech | (Red) Reloading Exosuit
+I have all these cards!
+Dusted a rare for 25. I have 285 dust.
+
+RARE BOX
+(Neutral) Runebound Valet | (Blue) Fate Linker | (Orange) Evangelist
+Chose Runebound Valet
+
+RARE BOX
+(Orange) Evangelist | (Red) Storm Class Mech | (Blue) Fork Existence
+I have all these cards!
+Dusted a rare for 25. I have 310 dust.
+
+RARE BOX
+(Neutral) Pawnbroker | (Orange) Evangelist | (Blue) Baffling Presence
+I have all these cards!
+Dusted a rare for 25. I have 335 dust.
+
+COMMON BOX
+(Orange) Life Lash | (Orange) Radiant Weapon | (Orange) Vaporize Stone
+I have all these cards!
+Dusted a common for 10. I have 345 dust.
+
+EPIC BOX
+(Blue) Astral Champion | (Neutral) Census Master | (Purple) Grave Lotus
+Chose Census Master
+
+RARE BOX
+(Neutral) Martyr | (Red) Storm Class Mech | (Blue) Stallar Replicas
+I have all these cards!
+Dusted a rare for 25. I have 370 dust.
+
+COMMON BOX
+(Orange) Radiant Weapon | (Yellow) Pack Awakener | (Neutral) Shade
+I have all these cards!
+Dusted a common for 10. I have 380 dust.
+
+RARE BOX
+(Green) Grove Tender | (Purple) Flesh Pile | (Neutral) Blessed Archer
+I have all these cards!
+Dusted a rare for 25. I have 405 dust.
+
+COMMON BOX
+(Green) Groveguard | (Yellow) Ancient Caller | (Red) Strike Pack
+I have all these cards!
+Dusted a common for 10. I have 415 dust.
+
+COMMON BOX
+(Green) Blightspore Seedling | (Red) Hound Glass Mech | (Red) Hound Glass Mech
+I have all these cards!
+Dusted a common for 10. I have 425 dust.
+
+EPIC BOX
+(Yellow) Raised By Primals | (Neutral) Frenzied Rageclaw | (Neutral) Shadow Dancer
+Chose Raised By Primals
+
+RARE BOX
+(Purple) Soul Bounty | (Purple) Dark Traveler | (Purple) Flesh Pile
+I have all these cards!
+Dusted a rare for 25. I have 450 dust.
+
+RARE BOX
+(Purple) Perfected Specimen | (Blue) Fork Existence | (Yellow) Roar: Burrow
+I have all these cards!
+Dusted a rare for 25. I have 475 dust.
+
+COMMON BOX
+(Orange) Ascension | (Neutral) Rook | (Red) Insured Mech
+I have all these cards!
+Dusted a common for 10. I have 485 dust.
+
+COMMON BOX
+(Neutral) Bloodbond Fighter | (Green) Plainsguard | (Purple) Progenitor
+I have all these cards!
+Dusted a common for 10. I have 495 dust.
+
+LEGENDARY BOX
+(Neutral) Commander Barzic | (Neutral) High Shepherd Katell | (Neutral) Thundering Giant
+I have all these cards!
+Dusted a legendary for 400. I have 895 dust.
+
+RARE BOX
+(Orange) Vigil Keeper | (Neutral) Trauma Guard | (Neutral) Devoted Curate
+I have all these cards!
+Dusted a rare for 25. I have 920 dust.
+
+COMMON BOX
+(Neutral) Wraith | (Yellow) Pack Awakener | (Orange) Radiant Weapon
+I have all these cards!
+Dusted a common for 10. I have 930 dust.
+
+COMMON BOX
+(Green) Rock Crusher | (Purple) Grim Inspiration | (Orange) Vaporize Stone
+I have all these cards!
+Dusted a common for 10. I have 940 dust.
+
+COMMON BOX
+(Purple) Night Horror | (Yellow) Tribe Warrior | (Blue) Spark of Genius
+I have all these cards!
+Dusted a common for 10. I have 950 dust.
+
+COMMON BOX
+(Yellow) Idol of Reckoning | (Purple) Exsanguinate | (Orange) Luminator Initiate
+I have all these cards!
+Dusted a common for 10. I have 960 dust.
+
+COMMON BOX
+(Orange) Vaporize Stone | (Yellow) Ancient Caller | (Neutral) Rook
+I have all these cards!
+Dusted a common for 10. I have 970 dust.
+
+RARE BOX
+(Neutral) Weavebreaker | (Yellow) To Me! | (Blue) Tease Fate
+I have all these cards!
+Dusted a rare for 25. I have 995 dust.
+
+COMMON BOX
+(Red) Medframe Tech | (Red) Hound Glass Mech | (Blue) Temporal Technician
+I have all these cards!
+Dusted a common for 10. I have 1005 dust.
+
+RARE BOX
+(Green) Precise Detonation | (Neutral) Trauma Guard | (Blue) Stallar Replicas
+I have all these cards!
+Dusted a rare for 25. I have 1030 dust.
+
+COMMON BOX
+(Purple) Grim Inspiration | (Neutral) Arcanum Steward | (Neutral) Bloodbond Fighter
+I have all these cards!
+Dusted a common for 10. I have 1040 dust.
+
+RARE BOX
+(Orange) Desperate Prayer | (Purple) Cytoplast | (Blue) Stallar Replicas
+I have all these cards!
+Dusted a rare for 25. I have 1065 dust.
+
+COMMON BOX
+(Blue) Timesmith | (Orange) Reckoning | (Blue) Temporal Technician
+I have all these cards!
+Dusted a common for 10. I have 1075 dust.
+
+RARE BOX
+(Purple) Dark Traveler | (Orange) Echo Of Light | (Orange) Echo Of Light
+I have all these cards!
+Dusted a rare for 25. I have 1100 dust.
+
+RARE BOX
+(Neutral) Devoted Curate | (Green) Disciple of Almast | (Purple) Flesh Pile
+I have all these cards!
+Dusted a rare for 25. I have 1125 dust.
+
+COMMON BOX
+(Purple) Bone Eater | (Yellow) Primal Vim | (Green) Rock Crusher
+I have all these cards!
+Dusted a common for 10. I have 1135 dust.
+
+COMMON BOX
+(Green) Earthen Rage | (Orange) Life Lash | (Red) Upgrade Depot
+I have all these cards!
+Dusted a common for 10. I have 1145 dust.
+
+RARE BOX
+(Neutral) Devoted Curate | (Neutral) Blade of Valor | (Neutral) Martyr
+I have all these cards!
+Dusted a rare for 25. I have 1170 dust.
+
+COMMON BOX
+(Blue) Timesmith | (Neutral) Buccaneer | (Green) Earthen Rage
+I have all these cards!
+Dusted a common for 10. I have 1180 dust.
+
+COMMON BOX
+(Purple) Swarm Spore | (Purple) Dark Practitioner | (Orange) Lightspear Justical
+I have all these cards!
+Dusted a common for 10. I have 1190 dust.
+
+RARE BOX
+(Green) Precise Detonation | (Green) Snapdragon Cadet | (Green) Stonecall Seedling
+I have all these cards!
+Dusted a rare for 25. I have 1215 dust.
+Crafted legendary Viperfang Primal. I have 15 now.
+
+COMMON BOX
+(Green) Blightspore Seedling | (Orange) Vaporize Stone | (Neutral) Dancer
+I have all these cards!
+Dusted a common for 10. I have 25 dust.
+
+COMMON BOX
+(Blue) Warp Specialist | (Yellow) Ancient Caller | (Red) Medframe Tech
+I have all these cards!
+Dusted a common for 10. I have 35 dust.
+
+EPIC BOX
+(Neutral) Veil Shrieker | (Blue) Alternate Reality | (Yellow) Grand Wyrm Primal
+Chose Veil Shrieker
+
+RARE BOX
+(Neutral) Plague Starter | (Orange) Desperate Prayer | (Blue) Accelerator Pylon
+I have all these cards!
+Dusted a rare for 25. I have 60 dust.
+
+COMMON BOX
+(Yellow) Eagle Primal | (Red) Salvage Parts | (Yellow) Pack Awakener
+I have all these cards!
+Dusted a common for 10. I have 70 dust.
+
+COMMON BOX
+(Red) Static Discharge | (Neutral) Snarling Mastiff | (Green) Stone Prison
+I have all these cards!
+Dusted a common for 10. I have 80 dust.
+
+COMMON BOX
+(Blue) Halt Space | (Purple) Grim Inspiration | (Orange) Burn The Wings
+I have all these cards!
+Dusted a common for 10. I have 90 dust.
+
+EPIC BOX
+(Neutral) Rabble Rouser | (Neutral) Osprey Captain | (Neutral) Pile O' Tomes
+I have all these cards!
+Dusted an epic for 100. I have 190 dust.
+
+RARE BOX
+(Blue) Rift Trickster | (Neutral) Duskblade | (Purple) Flesh Pile
+I have all these cards!
+Dusted a rare for 25. I have 215 dust.
+
+RARE BOX
+(Orange) Vigil Keeper | (Orange) Holy Armory | (Green) Disciple of Almast
+I have all these cards!
+Dusted a rare for 25. I have 240 dust.
+
+RARE BOX
+(Green) Precise Detonation | (Neutral) Spellboxer | (Orange) Harbinger
+I have all these cards!
+Dusted a rare for 25. I have 265 dust.
+
+COMMON BOX
+(Neutral) Venerated Champion | (Red) Plating Specialist | (Red) Strike Pack
+I have all these cards!
+Dusted a common for 10. I have 275 dust.
+
+RARE BOX
+(Neutral) Martyr | (Yellow) Roar: Burrow | (Purple) Flesh Pile
+I have all these cards!
+Dusted a rare for 25. I have 300 dust.
+
+RARE BOX
+(Neutral) Shield of Durant | (Purple) Night of the Living Dead | (Red) Builder Platform
+I have all these cards!
+Dusted a rare for 25. I have 325 dust.
+
+COMMON BOX
+(Green) Plainsguard | (Neutral) Rook | (Neutral) Lightdancer
+I have all these cards!
+Dusted a common for 10. I have 335 dust.
+
+COMMON BOX
+(Neutral) Wraith | (Neutral) Venerated Champion | (Purple) Thrall Mutation
+I have all these cards!
+Dusted a common for 10. I have 345 dust.
+
+COMMON BOX
+(Green) Rock Crusher | (Orange) Reckoning | (Yellow) Idol of Reckoning
+I have all these cards!
+Dusted a common for 10. I have 355 dust.
+
+RARE BOX
+(Orange) Holy Armory | (Yellow) Alpha Packmaster | (Orange) Evangelist
+I have all these cards!
+Dusted a rare for 25. I have 380 dust.
+
+EPIC BOX
+(Red) Summon Nanobots | (Neutral) Census Master | (Purple) Grave Lotus
+Chose Grave Lotus
+
+RARE BOX
+(Green) Snapdragon Cadet | (Green) Rampaging Boulder | (Yellow) Idol Of Eternity
+I have all these cards!
+Dusted a rare for 25. I have 405 dust.
+
+RARE BOX
+(Yellow) Ghost Primal | (Blue) Gravity Surge | (Purple) Corpse Explosion
+I have all these cards!
+Dusted a rare for 25. I have 430 dust.
+
+COMMON BOX
+(Orange) Reckoning | (Green) Seedsinger | (Neutral) Wraith
+I have all these cards!
+Dusted a common for 10. I have 440 dust.
+
+COMMON BOX
+(Green) Groveguard | (Orange) Vaporize Stone | (Yellow) Wolf Primal
+I have all these cards!
+Dusted a common for 10. I have 450 dust.
+
+RARE BOX
+(Red) Storm Class Mech | (Green) Tempest Hound | (Red) Outlaw Class Mech
+I have all these cards!
+Dusted a rare for 25. I have 475 dust.
+
+RARE BOX
+(Neutral) Blessed Archer | (Yellow) Menagerie | (Neutral) Runebound Valet
+I have all these cards!
+Dusted a rare for 25. I have 500 dust.
+
+COMMON BOX
+(Green) Seedsinger | (Neutral) Hungry Gnarbek | (Neutral) Buccaneer
+I have all these cards!
+Dusted a common for 10. I have 510 dust.
+
+COMMON BOX
+(Neutral) Shanker | (Blue) Temporal Technician | (Blue) Flux
+I have all these cards!
+Dusted a common for 10. I have 520 dust.
+
+RARE BOX
+(Purple) Perfected Specimen | (Purple) Night of the Living Dead | (Blue) Fork Existence
+I have all these cards!
+Dusted a rare for 25. I have 545 dust.
+
+COMMON BOX
+(Yellow) Tribe Warrior | (Red) Plating Specialist | (Red) Static Discharge
+I have all these cards!
+Dusted a common for 10. I have 555 dust.
+
+RARE BOX
+(Neutral) Plague Starter | (Red) Builder Platform | (Neutral) Duskblade
+I have all these cards!
+Dusted a rare for 25. I have 580 dust.
+
+RARE BOX
+(Green) Precise Detonation | (Yellow) Roar: Burrow | (Neutral) Blessed Archer
+I have all these cards!
+Dusted a rare for 25. I have 605 dust.
+
+LEGENDARY BOX
+(Neutral) Commander Barzic | (Orange) High Luminator Cerys | (Purple) Pain Beast
+I have all these cards!
+Dusted a legendary for 400. I have 1005 dust.
+
+COMMON BOX
+(Orange) Skyborne Crusader | (Red) Plating Specialist | (Neutral) Buccaneer
+I have all these cards!
+Dusted a common for 10. I have 1015 dust.
+
+COMMON BOX
+(Blue) Temporal Technician | (Blue) Halt Space | (Yellow) Pack Awakener
+I have all these cards!
+Dusted a common for 10. I have 1025 dust.
+
+COMMON BOX
+(Orange) Vaporize Stone | (Green) Zephyr Monk | (Green) Zephyr Monk
+I have all these cards!
+Dusted a common for 10. I have 1035 dust.
+
+COMMON BOX
+(Neutral) Arcanum Steward | (Blue) Spark of Genius | (Green) Plainsguard
+I have all these cards!
+Dusted a common for 10. I have 1045 dust.
+
+COMMON BOX
+(Yellow) Idol of Reckoning | (Green) Earthen Rage | (Blue) Spark of Genius
+I have all these cards!
+Dusted a common for 10. I have 1055 dust.
+
+RARE BOX
+(Neutral) Ephemera | (Neutral) Wrecking Crew | (Blue) Rift Trickster
+I have all these cards!
+Dusted a rare for 25. I have 1080 dust.
+
+RARE BOX
+(Neutral) Martyr | (Orange) Desperate Prayer | (Purple) Soul Bounty
+I have all these cards!
+Dusted a rare for 25. I have 1105 dust.
+
+COMMON BOX
+(Purple) Exsanguinate | (Yellow) Wolf Primal | (Green) Rock Crusher
+I have all these cards!
+Dusted a common for 10. I have 1115 dust.
+
+RARE BOX
+(Blue) Rift Trickster | (Orange) Harbinger | (Yellow) Roar: Burrow
+I have all these cards!
+Dusted a rare for 25. I have 1140 dust.
+
+COMMON BOX
+(Blue) Spark of Genius | (Red) Insured Mech | (Green) Seedsinger
+I have all these cards!
+Dusted a common for 10. I have 1150 dust.
+
+COMMON BOX
+(Blue) Temporal Drifter | (Orange) Radiant Weapon | (Purple) Grim Inspiration
+I have all these cards!
+Dusted a common for 10. I have 1160 dust.
+
+COMMON BOX
+(Green) Concord Artisan | (Neutral) Lightdancer | (Red) Salvage Parts
+I have all these cards!
+Dusted a common for 10. I have 1170 dust.
+
+COMMON BOX
+(Blue) Timesmith | (Yellow) Eagle Primal | (Orange) Skyborne Crusader
+I have all these cards!
+Dusted a common for 10. I have 1180 dust.
+
+COMMON BOX
+(Blue) Temporal Drifter | (Green) Zephyr Monk | (Green) Zephyr Monk
+I have all these cards!
+Dusted a common for 10. I have 1190 dust.
+
+RARE BOX
+(Orange) Holy Armory | (Green) Precise Detonation | (Orange) Zealot
+I have all these cards!
+Dusted a rare for 25. I have 1215 dust.
+Crafted legendary Tiny Island Fenya. I have 15 now.
+
+RARE BOX
+(Blue) Accelerator Pylon | (Purple) Soul Bounty | (Blue) Gravity Surge
+I have all these cards!
+Dusted a rare for 25. I have 40 dust.
+
+COMMON BOX
+(Purple) Night Horror | (Orange) Life Lash | (Neutral) Snarling Mastiff
+I have all these cards!
+Dusted a common for 10. I have 50 dust.
+
+COMMON BOX
+(Red) Plating Specialist | (Neutral) Bloodbond Fighter | (Green) Seedsinger
+I have all these cards!
+Dusted a common for 10. I have 60 dust.
+
+RARE BOX
+(Purple) Flesh Pile | (Neutral) Devoted Curate | (Orange) Harbinger
+I have all these cards!
+Dusted a rare for 25. I have 85 dust.
+
+COMMON BOX
+(Red) Blockade Forger | (Neutral) Frenzied Direhide | (Yellow) Roar: Earburst
+I have all these cards!
+Dusted a common for 10. I have 95 dust.
+
+LEGENDARY BOX
+(Neutral) The Prodigy | (Neutral) Officer Showoff | (Yellow) Moya Primal
+I have all these cards!
+Dusted a legendary for 400. I have 495 dust.
+
+RARE BOX
+(Neutral) Blade of Valor | (Neutral) Martyr | (Neutral) Back Alley Bruiser
+I have all these cards!
+Dusted a rare for 25. I have 520 dust.
+
+RARE BOX
+(Blue) Accelerator Pylon | (Red) Personal Portal Device | (Neutral) Blight Lasher
+I have all these cards!
+Dusted a rare for 25. I have 545 dust.
+
+EPIC BOX
+(Blue) Alternate Reality | (Neutral) Frenzied Rageclaw | (Purple) Grave Lotus
+I have all these cards!
+Dusted an epic for 100. I have 645 dust.
+
+COMMON BOX
+(Yellow) Idol of Reckoning | (Neutral) Shanker | (Green) Rock Crusher
+I have all these cards!
+Dusted a common for 10. I have 655 dust.
+
+RARE BOX
+(Purple) Flesh Pile | (Green) Rampaging Boulder | (Green) Disciple of Almast
+I have all these cards!
+Dusted a rare for 25. I have 680 dust.
+
+COMMON BOX
+(Blue) Warp Specialist | (Red) Hound Glass Mech | (Green) Concord Artisan
+I have all these cards!
+Dusted a common for 10. I have 690 dust.
+
+COMMON BOX
+(Neutral) Mind Thief | (Neutral) Bloodbond Fighter | (Purple) Night Horror
+I have all these cards!
+Dusted a common for 10. I have 700 dust.
+
+RARE BOX
+(Neutral) Royal Magnate | (Orange) Harbinger | (Red) Reloading Exosuit
+I have all these cards!
+Dusted a rare for 25. I have 725 dust.
+
+COMMON BOX
+(Neutral) Grand Defender | (Orange) Life Lash | (Blue) Spark of Genius
+I have all these cards!
+Dusted a common for 10. I have 735 dust.
+
+COMMON BOX
+(Neutral) Rook | (Purple) Devious Socialite | (Green) Rock Crusher
+I have all these cards!
+Dusted a common for 10. I have 745 dust.
+
+COMMON BOX
+(Blue) Spark of Genius | (Green) Zephyr Monk | (Red) Upgrade Depot
+I have all these cards!
+Dusted a common for 10. I have 755 dust.
+
+COMMON BOX
+(Neutral) Buccaneer | (Yellow) Idol of Reckoning | (Neutral) Buccaneer
+I have all these cards!
+Dusted a common for 10. I have 765 dust.
+
+RARE BOX
+(Orange) Vigil Keeper | (Red) Storm Class Mech | (Neutral) Evergreen
+I have all these cards!
+Dusted a rare for 25. I have 790 dust.
+
+RARE BOX
+(Red) Requisitions Order | (Purple) Night of the Living Dead | (Yellow) Ghost Primal
+I have all these cards!
+Dusted a rare for 25. I have 815 dust.
+
+COMMON BOX
+(Orange) Luminator Initiate | (Blue) Halt Space | (Purple) Bone Eater
+I have all these cards!
+Dusted a common for 10. I have 825 dust.
+
+RARE BOX
+(Purple) Dark Traveler | (Purple) Flesh Pile | (Orange) Vigil Keeper
+I have all these cards!
+Dusted a rare for 25. I have 850 dust.
+
+COMMON BOX
+(Neutral) Rook | (Green) Stone Prison | (Neutral) Quartermaster
+I have all these cards!
+Dusted a common for 10. I have 860 dust.
+
+RARE BOX
+(Purple) Soul Bounty | (Neutral) Devoted Curate | (Purple) Corpse Explosion
+I have all these cards!
+Dusted a rare for 25. I have 885 dust.
+
+LEGENDARY BOX
+(Orange) Become Dust | (Purple) Narciso, Sarcone Assassin | (Neutral) Hadrien, The White Rook
+I have all these cards!
+Dusted a legendary for 400. I have 1285 dust.
+Crafted legendary Super Time Skip. I have 85 now.
+
+COMMON BOX
+(Neutral) Bloodbond Fighter | (Blue) Distorter | (Yellow) Roar: Earburst
+I have all these cards!
+Dusted a common for 10. I have 95 dust.
+
+COMMON BOX
+(Yellow) Idol of Reckoning | (Purple) Grim Inspiration | (Green) Rock Crusher
+I have all these cards!
+Dusted a common for 10. I have 105 dust.
+
+RARE BOX
+(Neutral) Devoted Curate | (Red) Storm Class Mech | (Neutral) Iron Heart
+I have all these cards!
+Dusted a rare for 25. I have 130 dust.
+
+COMMON BOX
+(Neutral) Shanker | (Red) Blockade Forger | (Blue) Flux
+I have all these cards!
+Dusted a common for 10. I have 140 dust.
+
+LEGENDARY BOX
+(Purple) Pain Beast | (Red) Creation Specialist | (Blue) Prism Dancer
+I have all these cards!
+Dusted a legendary for 400. I have 540 dust.
+Crafted epic Phalanx Leader. I have 140 now.
+
+COMMON BOX
+(Purple) Prestari Cultist | (Green) Plainsguard | (Blue) Temporal Technician
+I have all these cards!
+Dusted a common for 10. I have 150 dust.
+
+COMMON BOX
+(Purple) Dark Practitioner | (Neutral) Shade | (Orange) Skyborne Crusader
+I have all these cards!
+Dusted a common for 10. I have 160 dust.
+
+RARE BOX
+(Neutral) Runebound Valet | (Red) Efficiency Expert | (Green) Grove Tender
+I have all these cards!
+Dusted a rare for 25. I have 185 dust.
+
+EPIC BOX
+(Neutral) Soul Shifter | (Green) Voice of the Squall | (Neutral) Arcanum Professor
+Chose Soul Shifter
+
+COMMON BOX
+(Red) Static Discharge | (Blue) Halt Space | (Blue) Slow Reflexes
+I have all these cards!
+Dusted a common for 10. I have 195 dust.
+
+LEGENDARY BOX
+(Neutral) Hadrien, The White Rook | (Neutral) Raven's Messenger | (Blue) Prism Dancer
+I have all these cards!
+Dusted a legendary for 400. I have 595 dust.
+Crafted epic Weave Eater. I have 195 now.
+
+COMMON BOX
+(Orange) Luminator Initiate | (Neutral) Mind Thief | (Neutral) Mind Thief
+I have all these cards!
+Dusted a common for 10. I have 205 dust.
+
+COMMON BOX
+(Red) Gravwell Exosuit | (Purple) Thrall Mutation | (Neutral) Buccaneer
+I have all these cards!
+Dusted a common for 10. I have 215 dust.
+
+EPIC BOX
+(Neutral) Census Master | (Neutral) Shadow Dancer | (Neutral) Census Master
+I have all these cards!
+Dusted an epic for 100. I have 315 dust.
+
+RARE BOX
+(Purple) Corpse Explosion | (Green) Stonecall Seedling | (Neutral) Ephemera
+I have all these cards!
+Dusted a rare for 25. I have 340 dust.
+
+RARE BOX
+(Orange) Desperate Prayer | (Red) Reloading Exosuit | (Neutral) Blight Lasher
+I have all these cards!
+Dusted a rare for 25. I have 365 dust.
+
+COMMON BOX
+(Green) Earthen Rage | (Neutral) Shockblade Smuggler | (Yellow) Wolf Primal
+I have all these cards!
+Dusted a common for 10. I have 375 dust.
+
+RARE BOX
+(Purple) Corpse Explosion | (Neutral) Royal Magnate | (Green) Disciple of Almast
+I have all these cards!
+Dusted a rare for 25. I have 400 dust.
+Crafted epic Weave Eater. I have 0 now.
+
+RARE BOX
+(Green) Precise Detonation | (Blue) Gravity Surge | (Orange) Ardent Inquisitor
+I have all these cards!
+Dusted a rare for 25. I have 25 dust.
+
+COMMON BOX
+(Blue) Spark of Genius | (Neutral) Dancer | (Orange) Skyborne Crusader
+I have all these cards!
+Dusted a common for 10. I have 35 dust.
+
+COMMON BOX
+(Purple) Dark Practitioner | (Blue) Temporal Technician | (Neutral) Shade
+I have all these cards!
+Dusted a common for 10. I have 45 dust.
+
+RARE BOX
+(Neutral) Plague Starter | (Green) Lokri Nightshade | (Neutral) Spellboxer
+I have all these cards!
+Dusted a rare for 25. I have 70 dust.
+
+COMMON BOX
+(Blue) Warp Specialist | (Neutral) Quartermaster | (Green) Stone Prison
+I have all these cards!
+Dusted a common for 10. I have 80 dust.
+
+COMMON BOX
+(Green) Rock Crusher | (Orange) Ascension | (Yellow) Hunting Scout
+I have all these cards!
+Dusted a common for 10. I have 90 dust.
+
+COMMON BOX
+(Blue) Temporal Technician | (Neutral) Shockblade Smuggler | (Neutral) Shade
+I have all these cards!
+Dusted a common for 10. I have 100 dust.
+
+RARE BOX
+(Green) Disciple of Almast | (Neutral) Devoted Curate | (Green) Lokri Nightshade
+I have all these cards!
+Dusted a rare for 25. I have 125 dust.
+
+EPIC BOX
+(Neutral) Frenzied Rageclaw | (Green) Voice of the Squall | (Neutral) Master of Faces
+I have all these cards!
+Dusted an epic for 100. I have 225 dust.
+
+RARE BOX
+(Purple) Perfected Specimen | (Neutral) Trauma Guard | (Orange) Zealot
+I have all these cards!
+Dusted a rare for 25. I have 250 dust.
+
+COMMON BOX
+(Neutral) Venerated Champion | (Red) Plating Specialist | (Orange) Reckoning
+I have all these cards!
+Dusted a common for 10. I have 260 dust.
+
+COMMON BOX
+(Neutral) Grand Defender | (Purple) Bone Eater | (Orange) Luminator Initiate
+I have all these cards!
+Dusted a common for 10. I have 270 dust.
+
+LEGENDARY BOX
+(Neutral) Hadrien, The White Rook | (Orange) Become Dust | (Neutral) Admiral Florian
+I have all these cards!
+Dusted a legendary for 400. I have 670 dust.
+Crafted epic Soul Shifter. I have 270 now.
+
+COMMON BOX
+(Orange) Skyborne Crusader | (Purple) Devious Socialite | (Orange) Radiant Weapon
+I have all these cards!
+Dusted a common for 10. I have 280 dust.
+
+RARE BOX
+(Neutral) Plague Starter | (Green) Lokri Nightshade | (Purple) Perfected Specimen
+I have all these cards!
+Dusted a rare for 25. I have 305 dust.
+
+COMMON BOX
+(Purple) Swarm Spore | (Red) Gravwell Exosuit | (Neutral) Royal Scout
+I have all these cards!
+Dusted a common for 10. I have 315 dust.
+
+COMMON BOX
+(Neutral) Rook | (Neutral) Shanker | (Purple) Dark Practitioner
+I have all these cards!
+Dusted a common for 10. I have 325 dust.
+
+RARE BOX
+(Red) Builder Platform | (Blue) Fork Existence | (Purple) Cytoplast
+I have all these cards!
+Dusted a rare for 25. I have 350 dust.
+
+COMMON BOX
+(Yellow) Beloved Trainer | (Blue) Halt Space | (Orange) Ascension
+I have all these cards!
+Dusted a common for 10. I have 360 dust.
+
+RARE BOX
+(Purple) Dark Traveler | (Neutral) Ephemera | (Yellow) Winged Primal
+I have all these cards!
+Dusted a rare for 25. I have 385 dust.
+
+COMMON BOX
+(Blue) Halt Space | (Neutral) Shade | (Neutral) Shanker
+I have all these cards!
+Dusted a common for 10. I have 395 dust.
+
+COMMON BOX
+(Green) Concord Artisan | (Blue) Timesmith | (Green) Zephyr Monk
+I have all these cards!
+Dusted a common for 10. I have 405 dust.
+Crafted epic Skywatch Dragoon. I have 5 now.
+
+i finished! i have 5 dust and opened 802 boxes.
