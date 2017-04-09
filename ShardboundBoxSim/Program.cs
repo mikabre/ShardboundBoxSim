@@ -27,26 +27,30 @@ namespace ShardboundBoxSim
         const int legendarySell = 400;
         const int legendaryBuy = 1200;
 
-        // RNG seed for the program
+        // RNG seed for the program, and streamwriter object for the log
         private static readonly Random random = new Random();
+        private static FileStream fs = File.Create(@"output.txt");
+        private static StreamWriter w;
 
         static void Main(string[] args)
         {
             // This bool kills the main program loop when set to true. Setting this to true will end execution.
             bool kill = false;
+            fs.Close();
+            w = File.AppendText(@"output.txt");
+            w.AutoFlush = true;
             string output = "";
             int numBoxes = 0;
             string[] collectionOne = new string[275];
             string[] collectionTwo = new string[275];
 
-            List<Card> cards = LoadJson();
+                List<Card> cards = LoadJson();
 
             for (int i = 0; i < cards.Count; i++)
             {
                 collectionOne[i] = "";
                 collectionTwo[i] = "";
             }
-
             foreach (Card c in cards)
             {
                 if (c.rarity.Equals("Basic"))
@@ -57,7 +61,8 @@ namespace ShardboundBoxSim
                 }
             }
 
-            while (kill == false) { 
+            while (kill == false) {
+                Console.WriteLine(Environment.NewLine);
                 Console.WriteLine("Choose an option.");
                 Console.WriteLine("1. Open a set number of boxes");
                 Console.WriteLine("2. Fill collection");
@@ -68,14 +73,9 @@ namespace ShardboundBoxSim
                 {
                     case "1":
                         Console.WriteLine("How many boxes?");
-                        try
-                        {
-                            numBoxes = Int32.Parse(Console.ReadLine());
-                        } catch { IOException e; }
-                        {
-                            
-                        }
-                        OpenBoxes(cards, numBoxes);
+                        try { numBoxes = Int32.Parse(Console.ReadLine()); }
+                        catch { IOException e; } { }
+                        OpenBoxes(cards, numBoxes, ref output);
                         break;
                     case "2":
                         int dustOption = 0;
@@ -106,6 +106,7 @@ namespace ShardboundBoxSim
                     default:
                         Console.WriteLine("Exiting.");
                         Console.ReadLine();
+                        System.Environment.Exit(1);
                         break;
                 }
             }
@@ -137,14 +138,10 @@ namespace ShardboundBoxSim
                     break;
                 }
                 count++;
-                List<Card> results = RandomBoxCards(cards, 1);
+                List<Card> results = RandomBoxCards(cards, 1, ref output);
                 Card one = results.ElementAt(0);
                 Card two = results.ElementAt(1);
                 Card three = results.ElementAt(2);
-
-
-                output = output + Environment.NewLine + Environment.NewLine + one.rarity.ToUpper() + " BOX";
-                output = output + Environment.NewLine + "(" + one.type + ") " + one.name + " | " + "(" + two.type + ") " + two.name + " | " + "(" + three.type + ") " + three.name;
 
                 if (!collectionOne.Contains(one.name))
                 {
@@ -154,18 +151,15 @@ namespace ShardboundBoxSim
                     {
                         index = Array.IndexOf(collectionTwo, "");
                         collectionTwo[index] = one.name;
-
                     }
-                    output = output + Environment.NewLine + "Chose " + one.name;
-                    Console.WriteLine("Chose " + one.name);
+                    OutputLog("Chose " + one.name);
                     continue;
                 }
                 else if (!collectionTwo.Contains(one.name))
                 {
                     int index = Array.IndexOf(collectionTwo, "");
                     collectionTwo[index] = one.name;
-                    output = output + Environment.NewLine + "Chose " + one.name;
-                    Console.WriteLine("Chose " + one.name);
+                    OutputLog("Chose " + one.name);
                     continue;
                 }
 
@@ -177,18 +171,15 @@ namespace ShardboundBoxSim
                     {
                         index = Array.IndexOf(collectionTwo, "");
                         collectionTwo[index] = two.name;
-
                     }
-                    output = output + Environment.NewLine + "Chose " + two.name;
-                    Console.WriteLine("Chose " + two.name);
+                    OutputLog("Chose " + two.name);
                     continue;
                 }
                 else if (!collectionTwo.Contains(two.name))
                 {
                     int index = Array.IndexOf(collectionTwo, "");
                     collectionTwo[index] = two.name;
-                    output = output + Environment.NewLine + "Chose " + two.name;
-                    Console.WriteLine("Chose " + two.name);
+                    OutputLog("Chose " + two.name);
                     continue;
                 }
 
@@ -200,46 +191,20 @@ namespace ShardboundBoxSim
                     {
                         index = Array.IndexOf(collectionTwo, "");
                         collectionTwo[index] = three.name;
-
                     }
-                    output = output + Environment.NewLine + "Chose " + three.name;
-                    Console.WriteLine("Chose " + three.name);
+                    OutputLog("Chose " + three.name);
                     continue;
                 }
                 else if (!collectionTwo.Contains(three.name))
                 {
                     int index = Array.IndexOf(collectionTwo, "");
                     collectionTwo[index] = three.name;
-                    output = output + Environment.NewLine + "Chose " + three.name;
-                    Console.WriteLine("Chose " + three.name);
+                    OutputLog("Chose " + three.name);
                     continue;
                 }
 
                 output = output + Environment.NewLine + "I have all these cards!";
-                
-                switch (one.rarity)
-                {
-                    case "Common":
-                        currentDust += commonSell;
-                        output = output + Environment.NewLine + "Dusted a common for " + commonSell + ". I have " + currentDust + " dust.";
-                        break;
-                    case "Rare":
-                        currentDust += rareSell;
-                        output = output + Environment.NewLine + "Dusted a rare for " + rareSell + ". I have " + currentDust + " dust.";
-                        break;
-                    case "Epic":
-                        currentDust += epicSell;
-                        output = output + Environment.NewLine + "Dusted an epic for " + epicSell + ". I have " + currentDust + " dust.";
-                        break;
-                    case "Legendary":
-                        currentDust += legendarySell;
-                        output = output + Environment.NewLine + "Dusted a legendary for " + legendarySell + ". I have " + currentDust + " dust.";
-                        break;
-                    default:
-                        Console.WriteLine("fug :D");
-                        break;
-
-                }
+                dustCard(ref currentDust, one, ref output);
 
                 if (dustOption == 1)
                 {
@@ -254,18 +219,9 @@ namespace ShardboundBoxSim
                         {
                             if ((Array.IndexOf(collectionOne, legendary.name) == -1))
                             {
-                                //currentDust -= legendaryBuy;
-                                //int index = Array.IndexOf(collectionOne, "");
-                                //collectionOne[index] = legendary.name;
-                                //index = Array.IndexOf(collectionTwo, "");
-                                //collectionTwo[index] = legendary.name;
-                                //output = output + Environment.NewLine + "Crafted legendary " + legendary.name + ". I have " + currentDust + " now.";
                                 CraftLegendaryCard(ref currentDust, ref collectionOne, ref collectionTwo, legendary, ref output);
-
                                 if (currentDust < legendaryBuy)
-                                {
                                     break;
-                                }
                             }
                         }
                     }
@@ -276,17 +232,12 @@ namespace ShardboundBoxSim
                         foreach (Card legendary in legendList)
                         {
                             if ((Array.IndexOf(collectionOne, legendary.name) == -1))
-                            {
                                 legendCheckIfDone = false;
-
-                            }
                         }
                     }
 
                     if (legendCheckIfDone == true)
-                    {
                         allLegends = true;
-                    }
 
                     if (allLegends)
                     {
@@ -300,25 +251,11 @@ namespace ShardboundBoxSim
                             foreach (Card epic in epicList)
                             {
                                 if ((Array.IndexOf(collectionOne, epic.name) == -1))
-                                {
-                                    //currentDust -= epicBuy;
-                                    //int index = Array.IndexOf(collectionOne, "");
-                                    //collectionOne[index] = epic.name;
-                                    //output = output + Environment.NewLine + "Crafted epic " + epic.name + ". I have " + currentDust + " now.";
                                     CraftCard(ref currentDust, ref collectionOne, epic, ref output);
-                                }
                                 else if ((Array.IndexOf(collectionTwo, epic.name) == -1))
-                                {
-                                    //currentDust -= epicBuy;
-                                    //int index = Array.IndexOf(collectionTwo, "");
-                                    //collectionTwo[index] = epic.name;
-                                    //output = output + Environment.NewLine + "Crafted epic " + epic.name + ". I have " + currentDust + " now.";
                                     CraftCard(ref currentDust, ref collectionTwo, epic, ref output);
-                                }
                                 if (currentDust < epicBuy)
-                                {
                                     break;
-                                }
                             }
                         }
 
@@ -328,19 +265,13 @@ namespace ShardboundBoxSim
                             foreach (Card epic in epicList)
                             {
                                 if ((Array.IndexOf(collectionOne, epic.name) == -1))
-                                {
                                     epicCheckIfDone = false;
-
-                                }
                             }
                         }
 
                         if (epicCheckIfDone == true)
-                        {
                             allEpics = true;
-                        }
                     }
-
                     if (allLegends && allEpics)
                     {
                         var rl = from Card in cards
@@ -353,50 +284,26 @@ namespace ShardboundBoxSim
                             foreach (Card rare in rareList)
                             {
                                 if ((Array.IndexOf(collectionOne, rare.name) == -1) && currentDust >= rareBuy)
-                                {
-                                    //currentDust -= rareBuy;
-                                    //int index = Array.IndexOf(collectionOne, "");
-                                    //collectionOne[index] = rare.name;
-                                    //output = output + Environment.NewLine + "Crafted rare " + rare.name + ". I have " + currentDust + " now.";
                                     CraftCard(ref currentDust, ref collectionOne, rare, ref output);
-
-                                }
                                 if ((Array.IndexOf(collectionTwo, rare.name) == -1) && currentDust >= rareBuy)
-                                {
-                                    //currentDust -= rareBuy;
-                                    //int index = Array.IndexOf(collectionTwo, "");
-                                    //collectionTwo[index] = rare.name;
-                                    //output = output + Environment.NewLine + "Crafted rare " + rare.name + ". I have " + currentDust + " now.";
                                     CraftCard(ref currentDust, ref collectionTwo, rare, ref output);
-                                }
 
                                 if (currentDust < rareBuy)
-                                {
                                     break;
-                                }
                             }
                         }
-
                         bool rareCheckIfDone = true;
                         if (!allRares)
                         {
-
                             foreach (Card rare in rareList)
                             {
                                 if ((Array.IndexOf(collectionOne, rare.name) == -1))
-                                {
                                     rareCheckIfDone = false;
-
-                                }
                             }
                         }
-
                         if (rareCheckIfDone == true)
-                        {
                             allRares = true;
-                        }
                     }
-
                     if (allLegends && allEpics && allRares)
                     {
                         var cl = from Card in cards
@@ -410,25 +317,14 @@ namespace ShardboundBoxSim
                             {
                                 if ((Array.IndexOf(collectionOne, common.name) == -1) && currentDust >= commonBuy)
                                 {
-                                    //currentDust -= commonBuy;
-                                    //int index = Array.IndexOf(collectionOne, "");
-                                    //collectionOne[index] = common.name;
-                                    //output = output + Environment.NewLine + "Crafted common " + common.name + ". I have " + currentDust + " now.";
                                     CraftCard(ref currentDust, ref collectionTwo, common, ref output);
                                 }
                                 if ((Array.IndexOf(collectionTwo, common.name) == -1) && currentDust >= commonBuy)
                                 {
-                                    //currentDust -= commonBuy;
-                                    //int index = Array.IndexOf(collectionTwo, "");
-                                    //collectionTwo[index] = common.name;
-                                    //output = output + Environment.NewLine + "Crafted common " + common.name + ". I have " + currentDust + " now.";
                                     CraftCard(ref currentDust, ref collectionTwo, common, ref output);
                                 }
-
                                 if (currentDust < commonBuy)
-                                {
                                     break;
-                                }
                             }
                         }
 
@@ -438,17 +334,11 @@ namespace ShardboundBoxSim
                             foreach (Card common in commonList)
                             {
                                 if ((Array.IndexOf(collectionOne, common.name) == -1))
-                                {
                                     commonCheckIfDone = false;
-
-                                }
                             }
                         }
-
                         if (commonCheckIfDone == true)
-                        {
                             allCommons = true;
-                        }
                     }
                 } else if (dustOption == 2)
                 {
@@ -456,7 +346,7 @@ namespace ShardboundBoxSim
 
                     if (enoughDust)
                     {
-                        output = output + Environment.NewLine + Environment.NewLine + "i have " + currentDust + " dust, which is enough to buy the remaining cards.";
+                        OutputLog(Environment.NewLine + "I have " + currentDust + " dust, which is enough to buy the remaining cards.");
                         foreach (Card card in cards)
                         {
                             bool has1 = collectionOne.Contains(card.name);
@@ -468,85 +358,25 @@ namespace ShardboundBoxSim
                                 {
                                     case "Common":
                                         if (Array.IndexOf(collectionOne, card.name) == -1)
-                                        {
-                                            Console.Write(Environment.NewLine + "I need a " + card.name + " worth " + commonBuy);
-                                            //int index = Array.IndexOf(collectionOne, "");
-                                            //collectionOne[index] = card.name;
-                                            //currentDust -= commonBuy;
-                                            //output = output + Environment.NewLine + "Crafted common " + card.name + ". I have " + currentDust + " now.";
                                             CraftCard(ref currentDust, ref collectionOne, card, ref output);
-                                        }
                                         if (Array.IndexOf(collectionTwo, card.name) == -1)
-                                        {
-                                            Console.Write(Environment.NewLine + "I need a " + card.name + " worth " + commonBuy);
-                                            //int index = Array.IndexOf(collectionTwo, "");
-                                            //collectionTwo[index] = card.name;
-                                            //currentDust -= commonBuy;
-                                            //output = output + Environment.NewLine + "Crafted common " + card.name + ". I have " + currentDust + " now.";
                                             CraftCard(ref currentDust, ref collectionTwo, card, ref output);
-
-                                        }
                                         break;
                                     case "Rare":
                                         if (Array.IndexOf(collectionOne, card.name) == -1)
-                                        {
-                                            Console.Write(Environment.NewLine + "I need a " + card.name + " worth " + rareBuy);
-
-                                            //int index = Array.IndexOf(collectionOne, "");
-                                            //collectionOne[index] = card.name;
-                                            //currentDust -= rareBuy;
-                                            //output = output + Environment.NewLine + "Crafted rare " + card.name + ". I have " + currentDust + " now.";
                                             CraftCard(ref currentDust, ref collectionOne, card, ref output);
-                                        }
                                         if (Array.IndexOf(collectionTwo, card.name) == -1)
-                                        {
-                                            Console.Write(Environment.NewLine + "I need a " + card.name + " worth " + rareBuy);
-
-                                            //int index = Array.IndexOf(collectionTwo, "");
-                                            //collectionTwo[index] = card.name;
-                                            //currentDust -= rareBuy;
-                                            //output = output + Environment.NewLine + "Crafted rare " + card.name + ". I have " + currentDust + " now.";
                                             CraftCard(ref currentDust, ref collectionTwo, card, ref output);
-
-
-                                        }
                                         break;
                                     case "Epic":
                                         if (Array.IndexOf(collectionOne, card.name) == -1)
-                                        {
-                                            Console.Write(Environment.NewLine + "I need a " + card.name + " worth " + epicBuy);
-
-                                            //int index = Array.IndexOf(collectionOne, "");
-                                            //collectionOne[index] = card.name;
-                                            //currentDust -= epicBuy;
-                                            //output = output + Environment.NewLine + "Crafted epic " + card.name + ". I have " + currentDust + " now.";
                                             CraftCard(ref currentDust, ref collectionOne, card, ref output);
-
-                                        }
                                         if (Array.IndexOf(collectionTwo, card.name) == -1)
-                                        {
-                                            Console.Write(Environment.NewLine + "I need a " + card.name + " worth " + epicBuy);
-
-                                            //int index = Array.IndexOf(collectionTwo, "");
-                                            //collectionTwo[index] = card.name;
-                                            //currentDust -= epicBuy;
-                                            //output = output + Environment.NewLine + "Crafted epic " + card.name + ". I have " + currentDust + " now.";
                                             CraftCard(ref currentDust, ref collectionTwo, card, ref output);
-
-                                        }
                                         break;
                                     case "Legendary":
                                         if (Array.IndexOf(collectionOne, card.name) == -1)
-                                        {
-                                            Console.Write(Environment.NewLine + "I need a " + card.name + " worth " + legendaryBuy);
-                                            //int index = Array.IndexOf(collectionOne, "");
-                                            //collectionOne[index] = card.name;
-                                            //index = Array.IndexOf(collectionTwo, "");
-                                            //collectionTwo[index] = card.name;
-                                            //currentDust -= legendaryBuy;
-                                            //output = output + Environment.NewLine + "Crafted legendary " + card.name + ". I have " + currentDust + " now.";
                                             CraftLegendaryCard(ref currentDust, ref collectionOne, ref collectionTwo, card, ref output);
-                                        }
                                         break;
                                     default:
                                         break;
@@ -568,11 +398,27 @@ namespace ShardboundBoxSim
 
                 //int emptySlots = colOne.Count() + colTwo.Count();
             }
-            Console.WriteLine("i finished! i have " + currentDust + " dust and opened " + count + " boxes.");
-            output = output + Environment.NewLine + Environment.NewLine + "i finished! i have " + currentDust + " dust and opened " + count + " boxes.";
+            OutputLog(Environment.NewLine + "I finished! I have " + currentDust + " dust and opened " + count + " boxes.");
+        }
 
-            System.IO.File.WriteAllText(@"output.txt", output);
-            Console.ReadLine();
+        private static void OutputLog(string text)
+        {
+            w.WriteLine(text);
+            Console.WriteLine(text);
+        }
+
+        private static void dustCard(ref int currentDust, Card card, ref string output)
+        {
+            int sell = 0;
+            if (card.rarity.Equals("Common"))
+                currentDust += sell = commonSell;
+            else if (card.rarity.Equals("Rare"))
+                currentDust += sell = rareSell;
+            else if (card.rarity.Equals("Epic"))
+                currentDust += sell = epicSell;
+            else if (card.rarity.Equals("Legendary"))
+                currentDust += sell = legendarySell;
+            OutputLog("Dusted a " + card.rarity + " for " + sell + ". I have " + currentDust + " dust.");
         }
 
         private static void CraftCard(ref int currentDust, ref string[] collection, Card card, ref string output)
@@ -580,7 +426,7 @@ namespace ShardboundBoxSim
             currentDust -= epicBuy;
             int index = Array.IndexOf(collection, "");
             collection[index] = card.name;
-            output = output + Environment.NewLine + "Crafted " + card.rarity.ToLower() + " " + card.name + ". I have " + currentDust + " now.";
+            OutputLog(Environment.NewLine + "Crafted " + card.rarity.ToLower() + " " + card.name + ". I have " + currentDust + " now.");
         }
 
         private static void CraftLegendaryCard(ref int currentDust, ref string[] collectionOne, ref string[] collectionTwo, Card card, ref string output)
@@ -590,7 +436,7 @@ namespace ShardboundBoxSim
             collectionOne[index] = card.name;
             index = Array.IndexOf(collectionTwo, "");
             collectionTwo[index] = card.name;
-            output = output + Environment.NewLine + "Crafted " + card.rarity.ToLower() + " " + card.name + ". I have " + currentDust + " now.";
+            OutputLog(Environment.NewLine + "Crafted " + card.rarity.ToLower() + " " + card.name + ". I have " + currentDust + " now.");
         }
 
         private static bool EnoughDustCheck(int currentDust, List<Card> cards, string[] colOne, string[] colTwo)
@@ -659,7 +505,7 @@ namespace ShardboundBoxSim
             }
         }
 
-        private static void RandomBox(List<Card> cards, int numBoxes)
+        private static void RandomBox(List<Card> cards, int numBoxes, ref string output)
         {
             for (int i = 0; i < numBoxes; i++)
             {
@@ -667,25 +513,25 @@ namespace ShardboundBoxSim
 
                 if (rand < legendary)
                 {
-                    OpenABox(cards, "Legendary");
+                    OpenABox(cards, "Legendary", ref output);
                 }
                 else if (rand < epic)
                 {
-                    OpenABox(cards, "Epic");
+                    OpenABox(cards, "Epic", ref output);
                 }
                 else if (rand < rare)
                 {
-                    OpenABox(cards, "Rare");
+                    OpenABox(cards, "Rare", ref output);
                 }
                 else
                 {
-                    OpenABox(cards, "Common");
+                    OpenABox(cards, "Common", ref output);
                 }
                 Console.ReadLine();
             }
         }
 
-        private static List<Card> RandomBoxCards(List<Card> cards, int numBoxes)
+        private static List<Card> RandomBoxCards(List<Card> cards, int numBoxes, ref string output)
         {
             List<Card> results = new List<Card>();
 
@@ -694,31 +540,31 @@ namespace ShardboundBoxSim
                 int rand = random.Next(10000);
                 if (rand < legendary)
                 {
-                    results = OpenABox(cards, "Legendary");
+                    results = OpenABox(cards, "Legendary", ref output);
                 }
                 else if (rand < epic)
                 {
-                    results = OpenABox(cards, "Epic");
+                    results = OpenABox(cards, "Epic", ref output);
                 }
                 else if (rand < rare)
                 {
-                    results = OpenABox(cards, "Rare");
+                    results = OpenABox(cards, "Rare", ref output);
                 }
                 else
                 {
-                    results = OpenABox(cards, "Common");
+                    results = OpenABox(cards, "Common", ref output);
                 }
                 
             }
             return results;
         }
 
-        private static void OpenBoxes(List<Card> cards, int numBoxes)
+        private static void OpenBoxes(List<Card> cards, int numBoxes, ref string output)
         {
-            RandomBox(cards, numBoxes);
+            RandomBox(cards, numBoxes, ref output);
         }
 
-        private static List<Card> OpenABox(List<Card> cards, string type)
+        private static List<Card> OpenABox(List<Card> cards, string type, ref string output)
         {
             var results = from Card in cards
                           where Card.rarity.Equals(type)
@@ -747,8 +593,8 @@ namespace ShardboundBoxSim
             Card packCardOne = cardList.ElementAt(randCardOne);
             Card packCardTwo = cardList.ElementAt(randCardTwo);
             Card packCardThree = cardList.ElementAt(randCardThree);
-            //Console.WriteLine(type.ToUpper() + " BOX");
-            //Console.WriteLine("(" + packCardOne.type + ") " + packCardOne.name + " | " + "(" + packCardTwo.type + ") " + packCardTwo.name + " | " + "(" + packCardThree.type + ") " + packCardThree.name);
+            OutputLog(Environment.NewLine + type.ToUpper() + " BOX");
+            OutputLog("(" + packCardOne.type + ") " + packCardOne.name + " | " + "(" + packCardTwo.type + ") " + packCardTwo.name + " | " + "(" + packCardThree.type + ") " + packCardThree.name);
             return new List<Card> { packCardOne, packCardTwo, packCardThree };
         }
     }
