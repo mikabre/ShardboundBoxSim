@@ -134,6 +134,7 @@ namespace ShardboundBoxSim
             {
                 if (Array.IndexOf(collectionOne, "") == -1 && Array.IndexOf(collectionTwo, "") == -1)
                 {
+                    Console.ReadLine();
                     break;
                 }
                 count++;
@@ -216,31 +217,33 @@ namespace ShardboundBoxSim
                 }
 
                 output = output + Environment.NewLine + "I have all these cards!";
-                if (dustOption == 1) { 
-                    switch (one.rarity)
-                    {
-                        case "Common":
-                            currentDust += commonSell;
-                            output = output + Environment.NewLine + "Dusted a common for " + commonSell + ". I have " + currentDust + " dust.";
-                            break;
-                        case "Rare":
-                            currentDust += rareSell;
-                            output = output + Environment.NewLine + "Dusted a rare for " + rareSell + ". I have " + currentDust + " dust.";
-                            break;
-                        case "Epic":
-                            currentDust += epicSell;
-                            output = output + Environment.NewLine + "Dusted an epic for " + epicSell + ". I have " + currentDust + " dust.";
-                            break;
-                        case "Legendary":
-                            currentDust += legendarySell;
-                            output = output + Environment.NewLine + "Dusted a legendary for " + legendarySell + ". I have " + currentDust + " dust.";
-                            break;
-                        default:
-                            Console.WriteLine("fug :D");
-                            break;
+                
+                switch (one.rarity)
+                {
+                    case "Common":
+                        currentDust += commonSell;
+                        output = output + Environment.NewLine + "Dusted a common for " + commonSell + ". I have " + currentDust + " dust.";
+                        break;
+                    case "Rare":
+                        currentDust += rareSell;
+                        output = output + Environment.NewLine + "Dusted a rare for " + rareSell + ". I have " + currentDust + " dust.";
+                        break;
+                    case "Epic":
+                        currentDust += epicSell;
+                        output = output + Environment.NewLine + "Dusted an epic for " + epicSell + ". I have " + currentDust + " dust.";
+                        break;
+                    case "Legendary":
+                        currentDust += legendarySell;
+                        output = output + Environment.NewLine + "Dusted a legendary for " + legendarySell + ". I have " + currentDust + " dust.";
+                        break;
+                    default:
+                        Console.WriteLine("fug :D");
+                        break;
 
-                    }
+                }
 
+                if (dustOption == 1)
+                {
                     var ll = from Card in cards
                              where Card.rarity.Equals("Legendary")
                              select Card;
@@ -446,6 +449,92 @@ namespace ShardboundBoxSim
                             allCommons = true;
                         }
                     }
+                } else if (dustOption == 2)
+                {
+                    bool enoughDust = EnoughDustCheck(currentDust, cards, collectionOne, collectionTwo);
+
+                    if (enoughDust)
+                    {
+                        output = output + Environment.NewLine + Environment.NewLine + "i have " + currentDust + " dust, which is enough to buy the remaining cards.";
+                        foreach (Card card in cards)
+                        {
+                            bool has1 = collectionOne.Contains(card.name);
+                            bool has2 = collectionTwo.Contains(card.name);
+
+                            if (!has1 || !has2)
+                            {
+                                switch (card.rarity)
+                                {
+                                    case "Common":
+                                        if (Array.IndexOf(collectionOne, card.name) == -1)
+                                        {
+                                            int index = Array.IndexOf(collectionOne, "");
+                                            collectionOne[index] = card.name;
+                                            currentDust -= commonBuy;
+                                            output = output + Environment.NewLine + "Crafted common " + card.name + ". I have " + currentDust + " now.";
+                                        }
+                                        if (Array.IndexOf(collectionTwo, card.name) == -1)
+                                        {
+                                            int index = Array.IndexOf(collectionTwo, "");
+                                            collectionTwo[index] = card.name;
+                                            currentDust -= commonBuy;
+                                            output = output + Environment.NewLine + "Crafted common " + card.name + ". I have " + currentDust + " now.";
+                                        }
+                                        break;
+                                    case "Rare":
+                                        if (Array.IndexOf(collectionOne, card.name) == -1)
+                                        {
+                                            int index = Array.IndexOf(collectionOne, "");
+                                            collectionOne[index] = card.name;
+                                            currentDust -= rareBuy;
+                                            output = output + Environment.NewLine + "Crafted rare " + card.name + ". I have " + currentDust + " now.";
+                                        }
+                                        if (Array.IndexOf(collectionTwo, card.name) == -1)
+                                        {
+                                            int index = Array.IndexOf(collectionTwo, "");
+                                            collectionTwo[index] = card.name;
+                                            currentDust -= rareBuy;
+                                            output = output + Environment.NewLine + "Crafted rare " + card.name + ". I have " + currentDust + " now.";
+
+                                        }
+                                        break;
+                                    case "Epic":
+                                        if (Array.IndexOf(collectionOne, card.name) == -1)
+                                        {
+                                            int index = Array.IndexOf(collectionOne, "");
+                                            collectionOne[index] = card.name;
+                                            currentDust -= epicBuy;
+                                            output = output + Environment.NewLine + "Crafted epic " + card.name + ". I have " + currentDust + " now.";
+                                        }
+                                        if (Array.IndexOf(collectionTwo, card.name) == -1)
+                                        {
+                                            int index = Array.IndexOf(collectionTwo, "");
+                                            collectionTwo[index] = card.name;
+                                            currentDust -= epicBuy;
+                                            output = output + Environment.NewLine + "Crafted epic " + card.name + ". I have " + currentDust + " now.";
+                                        }
+                                        break;
+                                    case "Legendary":
+                                        if (Array.IndexOf(collectionOne, card.name) == -1)
+                                        {
+                                            int index = Array.IndexOf(collectionOne, "");
+                                            collectionOne[index] = card.name;
+                                            index = Array.IndexOf(collectionTwo, "");
+                                            collectionTwo[index] = card.name;
+                                            currentDust -= legendaryBuy;
+                                            output = output + Environment.NewLine + "Crafted legendary " + card.name + ". I have " + currentDust + " now.";
+                                        }
+                                        break;
+                                    default:
+                                        break;
+                                }
+                            }
+                        }
+                    }
+                }
+                else if (dustOption == 3)
+                {
+
                 }
                 //var colOne = from str in collectionOne
                 //         where str.Equals("")
@@ -461,6 +550,72 @@ namespace ShardboundBoxSim
 
             System.IO.File.WriteAllText(@"output.txt", output);
             Console.ReadLine();
+        }
+
+        private static bool EnoughDustCheck(int currentDust, List<Card> cards, string[] colOne, string[] colTwo)
+        {
+            int dustNeeded = 0;
+            foreach (Card card in cards)
+            {
+                bool has = colOne.Contains(card.name);
+
+                if (!has)
+                {
+                    switch (card.rarity)
+                    {
+                        case "Common":
+                            dustNeeded += commonBuy;
+                            break;
+                        case "Rare":
+                            dustNeeded += rareBuy;
+                            break;
+                        case "Epic":
+                            dustNeeded += epicBuy;
+                            break;
+                        case "Legendary":
+                            dustNeeded += legendaryBuy;
+                            break;
+                        default:
+                            break;
+                    }
+                }
+            }
+
+            foreach (Card card in cards)
+            {
+                bool has = colTwo.Contains(card.name);
+
+                if (!has)
+                {
+                    switch (card.rarity)
+                    {
+                        case "Common":
+                            dustNeeded += commonBuy;
+                            break;
+                        case "Rare":
+                            dustNeeded += rareBuy;
+                            break;
+                        case "Epic":
+                            dustNeeded += epicBuy;
+                            break;
+                        case "Legendary":
+                            // Legendaries don't have a second copy
+                            //dustNeeded += legendaryBuy;
+                            break;
+                        default:
+                            break;
+                    }
+                }
+            }
+            Console.WriteLine(currentDust + " | " + dustNeeded);
+            if (currentDust >= dustNeeded)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
 
         private static void RandomBox(List<Card> cards, int numBoxes)
