@@ -116,7 +116,7 @@ namespace ShardboundBoxSim
                                 dustOption = 3;
                                 break;
                         }
-
+                        // Execute the main collection filling method.
                         FillCollection(cards, collectionOne, collectionTwo, dustOption);
                         break;
                     default:
@@ -143,29 +143,36 @@ namespace ShardboundBoxSim
         // Main collection filling method.
         private static void FillCollection(List<Card> cards, string[] collectionOne, string[] collectionTwo, int dustOption)
         {
+            // Boilerplate.
             int currentDust = 0;
             int count = 0;
+            int rarityTracker = 0;
             bool allLegends = false;
             bool allEpics = false;
             bool allRares = false;
             bool allCommons = false;
+
+            // Collection filling loop.
             while (true)
             {
+                // This statement checks if all of the slots in the two arrays are full. If they are, the collection is complete
+                // and we break out of the main loop.
                 if (Array.IndexOf(collectionOne, "") == -1 && Array.IndexOf(collectionTwo, "") == -1)
-                {
                     break;
-                }
+
+                // The count var is to track how many packs have been opened. RandomBoxCards supplies us with an opened box.
                 count++;
                 List<Card> results = RandomBoxCards(cards, 1);
                 Card one = results.ElementAt(0);
                 Card two = results.ElementAt(1);
                 Card three = results.ElementAt(2);
 
+                // Check if the first array has card one. If not, we want it, and then immediately go to the start of the loop.
                 if (!collectionOne.Contains(one.name))
                 {
                     int index = Array.IndexOf(collectionOne, "");
-                    collectionOne[index] = one.name;
-                    if (one.rarity.Equals("Legendary"))
+                    collectionOne[index] = one.name; 
+                    if (one.rarity.Equals("Legendary")) // if it's a legendary, we simulate there being only one by adding it to both arrays at the same time. similar tradeoffs elsewhere too.
                     {
                         index = Array.IndexOf(collectionTwo, "");
                         collectionTwo[index] = one.name;
@@ -173,6 +180,7 @@ namespace ShardboundBoxSim
                     OutputLog("Chose " + one.name);
                     continue;
                 }
+                // Check if the second array has card one. If not, we want it, and then immediately go to the start of the loop.
                 else if (!collectionTwo.Contains(one.name))
                 {
                     int index = Array.IndexOf(collectionTwo, "");
@@ -180,7 +188,7 @@ namespace ShardboundBoxSim
                     OutputLog("Chose " + one.name);
                     continue;
                 }
-
+                // Check if the first array has card two. If not, we want it, and then immediately go to the start of the loop.
                 if (!collectionOne.Contains(two.name))
                 {
                     int index = Array.IndexOf(collectionOne, "");
@@ -193,6 +201,7 @@ namespace ShardboundBoxSim
                     OutputLog("Chose " + two.name);
                     continue;
                 }
+                // Check if the second array has card two. If not, we want it, and then immediately go to the start of the loop.
                 else if (!collectionTwo.Contains(two.name))
                 {
                     int index = Array.IndexOf(collectionTwo, "");
@@ -200,7 +209,7 @@ namespace ShardboundBoxSim
                     OutputLog("Chose " + two.name);
                     continue;
                 }
-
+                // Check if the first array has card three. If not, we want it, and then immediately go to the start of the loop.
                 if (!collectionOne.Contains(three.name))
                 {
                     int index = Array.IndexOf(collectionOne, "");
@@ -213,6 +222,7 @@ namespace ShardboundBoxSim
                     OutputLog("Chose " + three.name);
                     continue;
                 }
+                // Check if the second array has card three. If not, we want it, and then immediately go to the start of the loop.
                 else if (!collectionTwo.Contains(three.name))
                 {
                     int index = Array.IndexOf(collectionTwo, "");
@@ -221,142 +231,29 @@ namespace ShardboundBoxSim
                     continue;
                 }
 
+                // If we reach here, all we can do is dust a card. We have all three. It doesn't matter which we pick, as they all have the same rarity.
                 OutputLog(Environment.NewLine + "I have all these cards!");
                 dustCard(ref currentDust, one);
 
+                // dustOption one is the sequential ordering.
                 if (dustOption == 1)
                 {
-                    var ll = from Card in cards
-                             where Card.rarity.Equals("Legendary")
-                             select Card;
-                    List<Card> legendList = ll.ToList();
-
-                    if (currentDust >= legendaryBuy)
+                    switch (rarityTracker)
                     {
-                        foreach (Card legendary in legendList)
-                        {
-                            if ((Array.IndexOf(collectionOne, legendary.name) == -1))
-                            {
-                                CraftLegendaryCard(ref currentDust, ref collectionOne, ref collectionTwo, legendary);
-                                if (currentDust < legendaryBuy)
-                                    break;
-                            }
-                        }
-                    }
-
-                    bool legendCheckIfDone = true;
-                    if (!allLegends)
-                    {
-                        foreach (Card legendary in legendList)
-                        {
-                            if ((Array.IndexOf(collectionOne, legendary.name) == -1))
-                                legendCheckIfDone = false;
-                        }
-                    }
-
-                    if (legendCheckIfDone == true)
-                        allLegends = true;
-
-                    if (allLegends)
-                    {
-                        var el = from Card in cards
-                                 where Card.rarity.Equals("Epic")
-                                 select Card;
-                        List<Card> epicList = el.ToList();
-
-                        if (currentDust >= epicBuy)
-                        {
-                            foreach (Card epic in epicList)
-                            {
-                                if ((Array.IndexOf(collectionOne, epic.name) == -1))
-                                    CraftCard(ref currentDust, ref collectionOne, epic);
-                                else if ((Array.IndexOf(collectionTwo, epic.name) == -1))
-                                    CraftCard(ref currentDust, ref collectionTwo, epic);
-                                if (currentDust < epicBuy)
-                                    break;
-                            }
-                        }
-
-                        bool epicCheckIfDone = true;
-                        if (!allEpics)
-                        {
-                            foreach (Card epic in epicList)
-                            {
-                                if ((Array.IndexOf(collectionOne, epic.name) == -1))
-                                    epicCheckIfDone = false;
-                            }
-                        }
-
-                        if (epicCheckIfDone == true)
-                            allEpics = true;
-                    }
-                    if (allLegends && allEpics)
-                    {
-                        var rl = from Card in cards
-                                 where Card.rarity.Equals("Rare")
-                                 select Card;
-                        List<Card> rareList = rl.ToList();
-
-                        if (currentDust >= rareBuy)
-                        {
-                            foreach (Card rare in rareList)
-                            {
-                                if ((Array.IndexOf(collectionOne, rare.name) == -1) && currentDust >= rareBuy)
-                                    CraftCard(ref currentDust, ref collectionOne, rare);
-                                if ((Array.IndexOf(collectionTwo, rare.name) == -1) && currentDust >= rareBuy)
-                                    CraftCard(ref currentDust, ref collectionTwo, rare);
-
-                                if (currentDust < rareBuy)
-                                    break;
-                            }
-                        }
-                        bool rareCheckIfDone = true;
-                        if (!allRares)
-                        {
-                            foreach (Card rare in rareList)
-                            {
-                                if ((Array.IndexOf(collectionOne, rare.name) == -1))
-                                    rareCheckIfDone = false;
-                            }
-                        }
-                        if (rareCheckIfDone == true)
-                            allRares = true;
-                    }
-                    if (allLegends && allEpics && allRares)
-                    {
-                        var cl = from Card in cards
-                                 where Card.rarity.Equals("common")
-                                 select Card;
-                        List<Card> commonList = cl.ToList();
-
-                        if (currentDust >= commonBuy)
-                        {
-                            foreach (Card common in commonList)
-                            {
-                                if ((Array.IndexOf(collectionOne, common.name) == -1) && currentDust >= commonBuy)
-                                {
-                                    CraftCard(ref currentDust, ref collectionTwo, common);
-                                }
-                                if ((Array.IndexOf(collectionTwo, common.name) == -1) && currentDust >= commonBuy)
-                                {
-                                    CraftCard(ref currentDust, ref collectionTwo, common);
-                                }
-                                if (currentDust < commonBuy)
-                                    break;
-                            }
-                        }
-
-                        bool commonCheckIfDone = true;
-                        if (!allCommons)
-                        {
-                            foreach (Card common in commonList)
-                            {
-                                if ((Array.IndexOf(collectionOne, common.name) == -1))
-                                    commonCheckIfDone = false;
-                            }
-                        }
-                        if (commonCheckIfDone == true)
-                            allCommons = true;
+                        case 0:
+                            BuyCard(cards, ref currentDust, ref collectionOne, ref collectionTwo, ref rarityTracker);
+                            break;
+                        case 1:
+                            BuyCard(cards, ref currentDust, ref collectionOne, ref collectionTwo, ref rarityTracker);
+                            break;
+                        case 2:
+                            BuyCard(cards, ref currentDust, ref collectionOne, ref collectionTwo, ref rarityTracker);
+                            break;
+                        case 3:
+                            BuyCard(cards, ref currentDust, ref collectionOne, ref collectionTwo, ref rarityTracker);
+                            break;
+                        default:
+                            break;
                     }
                 } else if (dustOption == 2)
                 {
@@ -419,7 +316,76 @@ namespace ShardboundBoxSim
             OutputLog(Environment.NewLine + "I finished! I have " + currentDust + " dust and opened " + count + " boxes.");
         }
 
-        private static void OutputLog(string text)
+        private static void BuyCard(List<Card> cards, ref int currentDust, ref string[] collectionOne, ref string[] collectionTwo, ref int rarityTracker)
+        {
+            string rarity = "";
+            int buyVal = 0;
+            switch (rarityTracker)
+            {
+                case 0:
+                    rarity = "Legendary";
+                    buyVal = legendaryBuy;
+                    break;
+                case 1:
+                    rarity = "Epic";
+                    buyVal = epicBuy;
+                    break;
+                case 2:
+                    rarity = "Rare";
+                    buyVal = rareBuy;
+                    break;
+                case 3:
+                    rarity = "Common";
+                    buyVal = commonBuy;
+                    break;
+                default:
+                    rarity = "Legendary";
+                    buyVal = legendaryBuy;
+                    break;
+            }
+
+            var ll = from Card in cards
+                     where Card.rarity.Equals(rarity)
+                     select Card;
+            List<Card> theList = ll.ToList();
+
+            // if we have enough dust, lets buy a card!
+            if (currentDust >= buyVal)
+            {
+                foreach (Card card in theList)
+                {
+                    if ((Array.IndexOf(collectionOne, card.name) == -1))
+                    {
+                        if (rarityTracker == 0)
+                            CraftLegendaryCard(ref currentDust, ref collectionOne, ref collectionTwo, card);
+                        else
+                            CraftCard(ref currentDust, ref collectionOne, card);
+                        if (currentDust < buyVal)
+                            break;
+                    }
+                    if ((Array.IndexOf(collectionTwo, card.name) == -1))
+                    {
+                        CraftCard(ref currentDust, ref collectionTwo, card);
+                        if (currentDust < buyVal)
+                            break;
+                    }
+                }
+            }
+
+            bool checkIfDone = true;
+            foreach (Card card in theList)
+            {
+                if ((Array.IndexOf(collectionOne, card.name) == -1))
+                    checkIfDone = false;
+                if ((Array.IndexOf(collectionTwo, card.name) == -1))
+                    checkIfDone = false;
+            }
+
+            if (checkIfDone == true)
+                rarityTracker++;
+        }
+
+            private static void OutputLog(string text)
         {
             w.WriteLine(text);
             Console.WriteLine(text);
