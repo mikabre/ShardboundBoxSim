@@ -10,13 +10,14 @@ namespace ShardboundBoxSim
     class Program
     {
         // Setting various constants that are used regarding rarity values. The first set
-        // is the chance of drawing a certain type of pack. if the random number generator
-        // roles that number or 
+        // are rng seed values, with the delta between two adjacent consts being the
+        // chance out of 10000 of pulling a specific type of pack
         const int common = 10000;
         const int rare = 5219;
         const int epic = 1230;
         const int legendary = 342;
 
+        // These values are the buy and sell costs for specific types of cards
         const int commonSell = 10;
         const int commonBuy = 50;
         const int rareSell = 25;
@@ -25,10 +26,13 @@ namespace ShardboundBoxSim
         const int epicBuy = 400;
         const int legendarySell = 400;
         const int legendaryBuy = 1200;
+
+        // RNG seed for the program
         private static readonly Random random = new Random();
 
         static void Main(string[] args)
         {
+            // This bool kills the main program loop when set to true. Setting this to true will end execution.
             bool kill = false;
 
             int numBoxes = 0;
@@ -73,7 +77,30 @@ namespace ShardboundBoxSim
                         OpenBoxes(cards, numBoxes);
                         break;
                     case "2":
-                        FillCollection(cards, collectionOne, collectionTwo);
+                        int dustOption = 0;
+                        Console.WriteLine("1. Use sequential pack opening.");
+                        Console.WriteLine("2. Save dust and craft entire remaining collection when enough is obtained.");
+                        Console.WriteLine("3. Sim without factoring in dust");
+
+                        string option = Console.ReadLine();
+                        switch(option)
+                        {
+                            case "1":
+                                dustOption = 1;
+                                break;
+                            case "2":
+                                dustOption = 2;
+                                break;
+                            case "3":
+                                dustOption = 3;
+                                break;
+                            default:
+                                Console.WriteLine("Defaulting to not factoring dust.");
+                                dustOption = 3;
+                                break;
+                        }
+
+                        FillCollection(cards, collectionOne, collectionTwo, dustOption);
                         break;
                     default:
                         Console.WriteLine("Exiting.");
@@ -94,9 +121,8 @@ namespace ShardboundBoxSim
             }
         }
 
-        private static void FillCollection(List<Card> cards, string[] collectionOne, string[] collectionTwo)
+        private static void FillCollection(List<Card> cards, string[] collectionOne, string[] collectionTwo, int dustOption)
         {
-            bool kill = false;
             string output = "";
             int currentDust = 0;
             int count = 0;
@@ -104,8 +130,12 @@ namespace ShardboundBoxSim
             bool allEpics = false;
             bool allRares = false;
             bool allCommons = false;
-            while (kill == false)
+            while (true)
             {
+                if (Array.IndexOf(collectionOne, "") == -1 && Array.IndexOf(collectionTwo, "") == -1)
+                {
+                    break;
+                }
                 count++;
                 List<Card> results = RandomBoxCards(cards, 1);
                 Card one = results.ElementAt(0);
@@ -186,230 +216,237 @@ namespace ShardboundBoxSim
                 }
 
                 output = output + Environment.NewLine + "I have all these cards!";
-                switch (one.rarity)
-                {
-                    case "Common":
-                        currentDust += commonSell;
-                        output = output + Environment.NewLine + "Dusted a common for " + commonSell + ". I have " + currentDust + " dust.";
-                        break;
-                    case "Rare":
-                        currentDust += rareSell;
-                        output = output + Environment.NewLine + "Dusted a rare for " + rareSell + ". I have " + currentDust + " dust.";
-                        break;
-                    case "Epic":
-                        currentDust += epicSell;
-                        output = output + Environment.NewLine + "Dusted an epic for " + epicSell + ". I have " + currentDust + " dust.";
-                        break;
-                    case "Legendary":
-                        currentDust += legendarySell;
-                        output = output + Environment.NewLine + "Dusted a legendary for " + legendarySell + ". I have " + currentDust + " dust.";
-                        break;
-                    default:
-                        Console.WriteLine("fug :D");
-                        break;
-
-                }
-
-                var ll = from Card in cards
-                              where Card.rarity.Equals("Legendary")
-                              select Card;
-                List<Card> legendList = ll.ToList();
-
-                if (currentDust >= legendaryBuy) {
-                    foreach (Card legendary in legendList)
+                if (dustOption == 1) { 
+                    switch (one.rarity)
                     {
-                        if ((Array.IndexOf(collectionOne, legendary.name) == -1))
-                        {
-                            currentDust -= legendaryBuy;
-                            int index = Array.IndexOf(collectionOne, "");
-                            collectionOne[index] = legendary.name;
-                            index = Array.IndexOf(collectionTwo, "");
-                            collectionTwo[index] = legendary.name;
-                            output = output + Environment.NewLine + "Crafted legendary " + legendary.name + ". I have " + currentDust + " now.";
+                        case "Common":
+                            currentDust += commonSell;
+                            output = output + Environment.NewLine + "Dusted a common for " + commonSell + ". I have " + currentDust + " dust.";
+                            break;
+                        case "Rare":
+                            currentDust += rareSell;
+                            output = output + Environment.NewLine + "Dusted a rare for " + rareSell + ". I have " + currentDust + " dust.";
+                            break;
+                        case "Epic":
+                            currentDust += epicSell;
+                            output = output + Environment.NewLine + "Dusted an epic for " + epicSell + ". I have " + currentDust + " dust.";
+                            break;
+                        case "Legendary":
+                            currentDust += legendarySell;
+                            output = output + Environment.NewLine + "Dusted a legendary for " + legendarySell + ". I have " + currentDust + " dust.";
+                            break;
+                        default:
+                            Console.WriteLine("fug :D");
+                            break;
 
-                            if (currentDust < legendaryBuy)
-                            {
-                                break;
-                            }
-                        }
                     }
-                }
 
-                bool legendCheckIfDone = true;
-                if (!allLegends) {
-                    foreach (Card legendary in legendList)
-                    {
-                        if ((Array.IndexOf(collectionOne, legendary.name) == -1))
-                        {
-                            legendCheckIfDone = false;
-
-                        }
-                    }
-                }
-                
-                if (legendCheckIfDone == true)
-                {
-                    allLegends = true;
-                }
-
-                if (allLegends)
-                {
-                    var el = from Card in cards
-                             where Card.rarity.Equals("Epic")
+                    var ll = from Card in cards
+                             where Card.rarity.Equals("Legendary")
                              select Card;
-                    List<Card> epicList = el.ToList();
+                    List<Card> legendList = ll.ToList();
 
-                    if (currentDust >= epicBuy) {
-                        foreach (Card epic in epicList)
+                    if (currentDust >= legendaryBuy)
+                    {
+                        foreach (Card legendary in legendList)
                         {
-                            if ((Array.IndexOf(collectionOne, epic.name) == -1))
+                            if ((Array.IndexOf(collectionOne, legendary.name) == -1))
                             {
-                                currentDust -= epicBuy;
+                                currentDust -= legendaryBuy;
                                 int index = Array.IndexOf(collectionOne, "");
-                                collectionOne[index] = epic.name;
-                                output = output + Environment.NewLine + "Crafted epic " + epic.name + ". I have " + currentDust + " now.";
+                                collectionOne[index] = legendary.name;
+                                index = Array.IndexOf(collectionTwo, "");
+                                collectionTwo[index] = legendary.name;
+                                output = output + Environment.NewLine + "Crafted legendary " + legendary.name + ". I have " + currentDust + " now.";
 
-                            } else if ((Array.IndexOf(collectionTwo, epic.name) == -1))
-                            {
-                                currentDust -= epicBuy;
-                                int index = Array.IndexOf(collectionTwo, "");
-                                collectionTwo[index] = epic.name;
-                                output = output + Environment.NewLine + "Crafted epic " + epic.name + ". I have " + currentDust + " now.";
-
-                            }
-                            if (currentDust < epicBuy)
-                            {
-                                break;
+                                if (currentDust < legendaryBuy)
+                                {
+                                    break;
+                                }
                             }
                         }
                     }
 
-                    bool epicCheckIfDone = true;
-                    if (!allEpics)
+                    bool legendCheckIfDone = true;
+                    if (!allLegends)
                     {
-                        foreach (Card epic in epicList)
+                        foreach (Card legendary in legendList)
                         {
-                            if ((Array.IndexOf(collectionOne, epic.name) == -1))
+                            if ((Array.IndexOf(collectionOne, legendary.name) == -1))
                             {
-                                epicCheckIfDone = false;
+                                legendCheckIfDone = false;
 
                             }
                         }
                     }
 
-                    if (epicCheckIfDone == true)
+                    if (legendCheckIfDone == true)
                     {
-                        allEpics = true;
+                        allLegends = true;
+                    }
+
+                    if (allLegends)
+                    {
+                        var el = from Card in cards
+                                 where Card.rarity.Equals("Epic")
+                                 select Card;
+                        List<Card> epicList = el.ToList();
+
+                        if (currentDust >= epicBuy)
+                        {
+                            foreach (Card epic in epicList)
+                            {
+                                if ((Array.IndexOf(collectionOne, epic.name) == -1))
+                                {
+                                    currentDust -= epicBuy;
+                                    int index = Array.IndexOf(collectionOne, "");
+                                    collectionOne[index] = epic.name;
+                                    output = output + Environment.NewLine + "Crafted epic " + epic.name + ". I have " + currentDust + " now.";
+
+                                }
+                                else if ((Array.IndexOf(collectionTwo, epic.name) == -1))
+                                {
+                                    currentDust -= epicBuy;
+                                    int index = Array.IndexOf(collectionTwo, "");
+                                    collectionTwo[index] = epic.name;
+                                    output = output + Environment.NewLine + "Crafted epic " + epic.name + ". I have " + currentDust + " now.";
+
+                                }
+                                if (currentDust < epicBuy)
+                                {
+                                    break;
+                                }
+                            }
+                        }
+
+                        bool epicCheckIfDone = true;
+                        if (!allEpics)
+                        {
+                            foreach (Card epic in epicList)
+                            {
+                                if ((Array.IndexOf(collectionOne, epic.name) == -1))
+                                {
+                                    epicCheckIfDone = false;
+
+                                }
+                            }
+                        }
+
+                        if (epicCheckIfDone == true)
+                        {
+                            allEpics = true;
+                        }
+                    }
+
+                    if (allLegends && allEpics)
+                    {
+                        var rl = from Card in cards
+                                 where Card.rarity.Equals("Rare")
+                                 select Card;
+                        List<Card> rareList = rl.ToList();
+
+                        if (currentDust >= rareBuy)
+                        {
+                            foreach (Card rare in rareList)
+                            {
+                                if ((Array.IndexOf(collectionOne, rare.name) == -1) && currentDust >= rareBuy)
+                                {
+                                    currentDust -= rareBuy;
+                                    int index = Array.IndexOf(collectionOne, "");
+                                    collectionOne[index] = rare.name;
+                                    output = output + Environment.NewLine + "Crafted rare " + rare.name + ". I have " + currentDust + " now.";
+
+                                }
+                                if ((Array.IndexOf(collectionTwo, rare.name) == -1) && currentDust >= rareBuy)
+                                {
+                                    currentDust -= rareBuy;
+                                    int index = Array.IndexOf(collectionTwo, "");
+                                    collectionTwo[index] = rare.name;
+                                    output = output + Environment.NewLine + "Crafted rare " + rare.name + ". I have " + currentDust + " now.";
+
+                                }
+
+                                if (currentDust < rareBuy)
+                                {
+                                    break;
+                                }
+                            }
+                        }
+
+                        bool rareCheckIfDone = true;
+                        if (!allRares)
+                        {
+
+                            foreach (Card rare in rareList)
+                            {
+                                if ((Array.IndexOf(collectionOne, rare.name) == -1))
+                                {
+                                    rareCheckIfDone = false;
+
+                                }
+                            }
+                        }
+
+                        if (rareCheckIfDone == true)
+                        {
+                            allRares = true;
+                        }
+                    }
+
+                    if (allLegends && allEpics && allRares)
+                    {
+                        var cl = from Card in cards
+                                 where Card.rarity.Equals("common")
+                                 select Card;
+                        List<Card> commonList = cl.ToList();
+
+                        if (currentDust >= commonBuy)
+                        {
+                            foreach (Card common in commonList)
+                            {
+                                if ((Array.IndexOf(collectionOne, common.name) == -1) && currentDust >= commonBuy)
+                                {
+                                    currentDust -= commonBuy;
+                                    int index = Array.IndexOf(collectionOne, "");
+                                    collectionOne[index] = common.name;
+                                    output = output + Environment.NewLine + "Crafted common " + common.name + ". I have " + currentDust + " now.";
+
+                                }
+                                if ((Array.IndexOf(collectionTwo, common.name) == -1) && currentDust >= commonBuy)
+                                {
+                                    currentDust -= commonBuy;
+                                    int index = Array.IndexOf(collectionTwo, "");
+                                    collectionTwo[index] = common.name;
+                                    output = output + Environment.NewLine + "Crafted common " + common.name + ". I have " + currentDust + " now.";
+
+                                }
+
+                                if (currentDust < commonBuy)
+                                {
+                                    break;
+                                }
+                            }
+                        }
+
+                        bool commonCheckIfDone = true;
+                        if (!allCommons)
+                        {
+                            foreach (Card common in commonList)
+                            {
+                                if ((Array.IndexOf(collectionOne, common.name) == -1))
+                                {
+                                    commonCheckIfDone = false;
+
+                                }
+                            }
+                        }
+
+                        if (commonCheckIfDone == true)
+                        {
+                            allCommons = true;
+                        }
                     }
                 }
-
-                if (allLegends && allEpics)
-                {
-                    var rl = from Card in cards
-                             where Card.rarity.Equals("Rare")
-                             select Card;
-                    List<Card> rareList = rl.ToList();
-
-                    if (currentDust >= rareBuy) {
-                        foreach (Card rare in rareList)
-                        {
-                            if ((Array.IndexOf(collectionOne, rare.name) == -1) && currentDust >= rareBuy)
-                            {
-                                currentDust -= rareBuy;
-                                int index = Array.IndexOf(collectionOne, "");
-                                collectionOne[index] = rare.name;
-                                output = output + Environment.NewLine + "Crafted rare " + rare.name + ". I have " + currentDust + " now.";
-
-                            }
-                            if ((Array.IndexOf(collectionTwo, rare.name) == -1) && currentDust >= rareBuy)
-                            {
-                                currentDust -= rareBuy;
-                                int index = Array.IndexOf(collectionTwo, "");
-                                collectionTwo[index] = rare.name;
-                                output = output + Environment.NewLine + "Crafted rare " + rare.name + ". I have " + currentDust + " now.";
-
-                            }
-
-                            if (currentDust < rareBuy)
-                            {
-                                break;
-                            }
-                        }
-                    }
-
-                    bool rareCheckIfDone = true;
-                    if (!allRares)
-                    {
-
-                        foreach (Card rare in rareList)
-                        {
-                            if ((Array.IndexOf(collectionOne, rare.name) == -1))
-                            {
-                                rareCheckIfDone = false;
-
-                            }
-                        }
-                    }
-
-                    if (rareCheckIfDone == true)
-                    {
-                        allRares = true;
-                    }
-                }
-
-                if (allLegends && allEpics && allRares)
-                {
-                    var cl = from Card in cards
-                             where Card.rarity.Equals("common")
-                             select Card;
-                    List<Card> commonList = cl.ToList();
-
-                    if (currentDust >= commonBuy) {
-                        foreach (Card common in commonList)
-                        {
-                            if ((Array.IndexOf(collectionOne, common.name) == -1) && currentDust >= commonBuy)
-                            {
-                                currentDust -= commonBuy;
-                                int index = Array.IndexOf(collectionOne, "");
-                                collectionOne[index] = common.name;
-                                output = output + Environment.NewLine + "Crafted common " + common.name + ". I have " + currentDust + " now.";
-
-                            }
-                            if ((Array.IndexOf(collectionTwo, common.name) == -1) && currentDust >= commonBuy)
-                            {
-                                currentDust -= commonBuy;
-                                int index = Array.IndexOf(collectionTwo, "");
-                                collectionTwo[index] = common.name;
-                                output = output + Environment.NewLine + "Crafted common " + common.name + ". I have " + currentDust + " now.";
-
-                            }
-
-                            if (currentDust < commonBuy)
-                            {
-                                break;
-                            }
-                        }
-                    }
-
-                    bool commonCheckIfDone = true;
-                    if (!allCommons)
-                    {
-                        foreach (Card common in commonList)
-                        {
-                            if ((Array.IndexOf(collectionOne, common.name) == -1))
-                            {
-                                commonCheckIfDone = false;
-
-                            }
-                        }
-                    }
-
-                    if (commonCheckIfDone == true)
-                    {
-                        allCommons = true;
-                    }
-                }
-
                 //var colOne = from str in collectionOne
                 //         where str.Equals("")
                 //         select str;
@@ -418,11 +455,6 @@ namespace ShardboundBoxSim
                 //             select str;
 
                 //int emptySlots = colOne.Count() + colTwo.Count();
-
-                if (Array.IndexOf(collectionOne, "") == -1 && Array.IndexOf(collectionTwo, "") == -1)
-                {
-                    kill = true;
-                }
             }
             Console.WriteLine("i finished! i have " + currentDust + " dust and opened " + count + " boxes.");
             output = output + Environment.NewLine + Environment.NewLine + "i finished! i have " + currentDust + " dust and opened " + count + " boxes.";
