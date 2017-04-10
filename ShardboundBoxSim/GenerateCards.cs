@@ -18,28 +18,28 @@ namespace ShardboundBoxSim
             {
                 Card card = new Card();
                 Console.WriteLine("Card name: ");
-                card.name = Console.ReadLine();
+                card.Name = Console.ReadLine();
                 Console.WriteLine("Card rarity Basic(1), Common(2), Rare(3), Epic(4), Legendary(5): ");
                 string rarity = Console.ReadLine();
                 switch (rarity)
                 {
                     case "1":
-                        card.rarity = "Basic";
+                        card.Rarity = "Basic";
                         break;
                     case "2":
-                        card.rarity = "Common";
+                        card.Rarity = "Common";
                         break;
                     case "3":
-                        card.rarity = "Rare";
+                        card.Rarity = "Rare";
                         break;
                     case "4":
-                        card.rarity = "Epic";
+                        card.Rarity = "Epic";
                         break;
                     case "5":
-                        card.rarity = "Legendary";
+                        card.Rarity = "Legendary";
                         break;
                     default:
-                        card.rarity = "";
+                        card.Rarity = "";
                         break;
                 }
 
@@ -48,31 +48,31 @@ namespace ShardboundBoxSim
                 switch (type)
                 {
                     case "1":
-                        card.type = "Neutral";
+                        card.Type = "Neutral";
                         break;
                     case "2":
-                        card.type = "Red";
+                        card.Type = "Red";
                         break;
                     case "3":
-                        card.type = "Orange";
+                        card.Type = "Orange";
                         break;
                     case "4":
-                        card.type = "Yellow";
+                        card.Type = "Yellow";
                         break;
                     case "5":
-                        card.type = "Green";
+                        card.Type = "Green";
                         break;
                     case "6":
-                        card.type = "Blue";
+                        card.Type = "Blue";
                         break;
                     case "7":
-                        card.type = "Purple";
+                        card.Type = "Purple";
                         break;
                     default:
-                        card.type = "";
+                        card.Type = "";
                         break;
                 }
-                if (card.name != "" && card.rarity != "" && card.type != "")
+                if (card.Name != "" && card.Rarity != "" && card.Type != "")
                 {
                     cardList.Add(card);
                 }

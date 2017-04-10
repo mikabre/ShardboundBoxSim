@@ -2,9 +2,9 @@
 {
     public class Card
     {
-        public string name { get; set; }
-        public string rarity { get; set; }
-        public string type { get; set; }
+        public string Name { get; set; }
+        public string Rarity { get; set; }
+        public string Type { get; set; }
 
         public Card()
         {
